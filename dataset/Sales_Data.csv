@@ -1,0 +1,2721 @@
+Date,Particulars,Name,Vch Type,Vch No.,Debit,Credit
+01-04-2019,By,customer1,Sales,1,,15040
+,,Item_1,200 Pcs,20.00/Pcs,4000,
+,,Item_2,160 Pcs,28.00/Pcs,4480,
+,,Item_3,12 Pcs,60.00/Pcs,720,
+,,Item_3,15 Pcs,35.00/Pcs,525,
+,,Item_3,25 Pcs,25.00/Pcs,625,
+,,Item_3,10 Pcs,25.00/Pcs,250,
+,,Item_4,60 Pcs,32.00/Pcs,1920,
+,,Item_4,60 Pcs,30.00/Pcs,1800,
+,,Item_4,20 Pcs,36.00/Pcs,720,
+01-04-2019,By,customer2,Sales,2,,6202
+,,Item_5,74 Pcs,42.00/Pcs,3108,
+,,Item_6,110 Pcs,17.00/Pcs,1870,
+,,Item_3,8 Pcs,48.00/Pcs,384,
+,,Item_3,20 Pcs,30.00/Pcs,600,
+,,Item_3,5 Pcs,48.00/Pcs,240,
+01-04-2019,By,customer3,Sales,3,,2640
+,,Item_7,120.00 MTR,22.00/MTR,2640,
+01-04-2019,By,customer2,Sales,4,,9500
+,,Item_3,500 Pcs,19.00/Pcs,9500,
+01-04-2019,By,customer4,Sales,5,,1600
+,,Item_8,40.00 MTR,40.00/MTR,1600,
+01-04-2019,By,customer5,Sales,6,,5500
+,,Item_9,500 Pcs,11.00/Pcs,5500,
+01-04-2019,By,customer6,Sales,7,,1350
+,,Item_10,100 Pcs,13.50/Pcs,1350,
+01-04-2019,By,customer2,Sales,8,,5790
+,,Item_2,90 Pcs,22.00/Pcs,1980,
+,,Item_2,80 Pcs,20.00/Pcs,1600,
+,,Item_6,130 Pcs,17.00/Pcs,2210,
+01-04-2019,By,customer2,Sales,9,,2100
+,,Item_5,50 Pcs,42.00/Pcs,2100,
+01-04-2019,By,customer7,Sales,10,,8101
+,,Item_7,240.00 MTR,22.00/MTR,5280,
+,,Item_3,12 Pcs,58.00/Pcs,696,
+,,Item_3,10 Pcs,63.00/Pcs,630,
+,,Item_3,15 Pcs,33.00/Pcs,495,
+,,Item_1,50 Pcs,20.00/Pcs,1000,
+01-04-2019,By,customer8,Sales,11,,15816
+,,Item_11,80.00 MTR,30.00/MTR,2400,
+,,Item_7,624.00 MTR,21.50/MTR,13416,
+01-04-2019,By,customer9,Sales,12,,5060
+,,Item_2,120 Pcs,24.00/Pcs,2880,
+,,Item_2,60 Pcs,31.00/Pcs,1860,
+,,Item_12,10 Pcs,32.00/Pcs,320,
+01-04-2019,By,customer10,Sales,13,,66640
+,,Item_3,120 Pcs,38.00/Pcs,4560,
+,,Item_3,15 Pcs,35.00/Pcs,525,
+,,Item_3,120 Pcs,52.00/Pcs,6240,
+,,Item_3,90 Pcs,30.00/Pcs,2700,
+,,Item_3,300 Pcs,24.00/Pcs,7200,
+,,Item_3,170 Pcs,38.00/Pcs,6460,
+,,Item_13,36.00 MTR,68.00/MTR,2448,
+,,Item_13,24.00 MTR,68.00/MTR,1632,
+,,Item_14,19.00 MTR,65.00/MTR,1235,
+,,Item_15,12.00 MTR,78.00/MTR,936,
+,,Item_16,28.00 MTR,88.00/MTR,2464,
+,,Item_17,24.00 MTR,85.00/MTR,2040,
+,,Item_18,24.00 MTR,75.00/MTR,1800,
+,,Item_2,1200 Pcs,22.00/Pcs,26400,
+02-04-2019,By,customer10,Sales,14,,32650
+,,Item_19,1000 Pcs,6.90/Pcs,6900,
+,,Item_20,1000 Pcs,7.90/Pcs,7900,
+,,Item_1,850 Pcs,21.00/Pcs,17850,
+02-04-2019,By,customer11,Sales,15,,3209
+,,Item_6,188 Pcs,17.00/Pcs,3196,
+,,Item_3,1 Pcs,13.00/Pcs,13,
+02-04-2019,By,customer12,Sales,16,,21000
+,,Item_19,3000 Pcs,7.00/Pcs,21000,
+03-04-2019,By,customer13,Sales,17,,4260
+,,Item_6,250 Pcs,17.00/Pcs,4250,
+,,Item_3,1 Pcs,10.00/Pcs,10,
+03-04-2019,By,customer2,Sales,18,,1020
+,,Item_6,40 Pcs,16.50/Pcs,660,
+,,Item_3,15 Pcs,24.00/Pcs,360,
+03-04-2019,By,customer14,Sales,19,,3300
+,,Item_6,200 Pcs,16.50/Pcs,3300,
+03-04-2019,By,customer2,Sales,20,,3150
+,,Item_3,150 Pcs,21.00/Pcs,3150,
+03-04-2019,By,customer15,Sales,21,,19797.5
+,,Item_6,1164 Pcs,17.00/Pcs,19788,
+,,Item_3,1 Pcs,9.50/Pcs,9.5,
+03-04-2019,By,customer16,Sales,22,,10170
+,,Item_1,200 Pcs,19.50/Pcs,3900,
+,,Item_21,60 Pcs,30.00/Pcs,1800,
+,,Item_22,60 Pcs,24.50/Pcs,1470,
+,,Item_6,120 Pcs,17.00/Pcs,2040,
+,,Item_23,20 Pcs,48.00/Pcs,960,
+03-04-2019,By,customer17,Sales,23,,32475.7
+,,Item_1,300 Pcs,19.50/Pcs,5850,
+,,Item_24,80.10 MTR,32.00/MTR,2563.2,
+,,Item_7,1093.75 MTR,22.00/MTR,24062.5,
+04-04-2019,By,customer18,Sales,24,,3754
+,,Item_7,143.00 MTR,22.00/MTR,3146,
+,,Item_25,16.00 MTR,38.00/MTR,608,
+04-04-2019,By,customer5,Sales,25,,46800
+,,Item_1,2400 Pcs,19.50/Pcs,46800,
+04-04-2019,By,customer19,Sales,26,,52884.5
+,,Item_6,2000 Pcs,17.00/Pcs,34000,
+,,Item_24,83.90 MTR,35.00/MTR,2936.5,
+,,Item_26,12 Pcs,40.00/Pcs,480,
+,,Item_3,36 Pcs,58.00/Pcs,2088,
+,,Item_7,240.00 MTR,22.00/MTR,5280,
+,,Item_27,82.00 MTR,50.00/MTR,4100,
+,,Item_8,100.00 MTR,40.00/MTR,4000,
+04-04-2019,By,customer20,Sales,27,,2880
+,,Item_27,40.00 MTR,50.00/MTR,2000,
+,,Item_7,40.00 MTR,22.00/MTR,880,
+05-04-2019,By,customer21,Sales,28,,32827
+,,Item_1,1640 Pcs,20.00/Pcs,32800,
+,,Item_3,1 Pcs,27.00/Pcs,27,
+06-04-2019,By,customer22,Sales,29,,1920
+,,Item_2,80 Pcs,24.00/Pcs,1920,
+06-04-2019,By,customer23,Sales,30,,4930
+,,Item_6,290 Pcs,17.00/Pcs,4930,
+07-04-2019,By,customer2,Sales,31,,6012
+,,Item_28,72 Pcs,80.00/Pcs,5760,
+,,Item_5,6 Pcs,42.00/Pcs,252,
+07-04-2019,By,customer24,Sales,32,,8430
+,,Item_7,40.00 MTR,22.00/MTR,880,
+,,Item_1,250 Pcs,20.00/Pcs,5000,
+,,Item_6,150 Pcs,17.00/Pcs,2550,
+08-04-2019,By,customer14,Sales,33,,2145
+,,Item_6,130 Pcs,16.50/Pcs,2145,
+08-04-2019,By,customer25,Sales,34,,10840
+,,Item_1,542 Pcs,20.00/Pcs,10840,
+09-04-2019,By,customer26,Sales,35,,11096
+,,Item_27,114.00 MTR,50.00/MTR,5700,
+,,Item_29,12.00 MTR,48.00/MTR,576,
+,,Item_7,20.00 MTR,22.00/MTR,440,
+,,Item_2,120 Pcs,22.00/Pcs,2640,
+,,Item_1,70 Pcs,20.00/Pcs,1400,
+,,Item_6,20 Pcs,17.00/Pcs,340,
+09-04-2019,By,customer27,Sales,36,,50871
+,,Item_6,2992 Pcs,17.00/Pcs,50864,
+,,Item_3,1 Pcs,7.00/Pcs,7,
+09-04-2019,By,customer28,Sales,37,,9270
+,,Item_3,24 Pcs,55.00/Pcs,1320,
+,,Item_23,25 Pcs,48.00/Pcs,1200,
+,,Item_10,500 Pcs,13.50/Pcs,6750,
+10-04-2019,By,customer29,Sales,38,,9214
+,,Item_21,80 Pcs,30.00/Pcs,2400,
+,,Item_6,140 Pcs,17.00/Pcs,2380,
+,,Item_3,40 Pcs,30.00/Pcs,1200,
+,,Item_3,15 Pcs,50.00/Pcs,750,
+,,Item_3,12 Pcs,60.00/Pcs,720,
+,,Item_30,13 Pcs,28.00/Pcs,364,
+,,Item_10,100 Pcs,14.00/Pcs,1400,
+10-04-2019,By,customer30,Sales,39,,3800
+,,Item_2,100 Pcs,24.00/Pcs,2400,
+,,Item_1,70 Pcs,20.00/Pcs,1400,
+10-04-2019,By,customer2,Sales,40,,1790
+,,Item_6,104 Pcs,17.00/Pcs,1768,
+,,Item_3,1 Pcs,22.00/Pcs,22,
+10-04-2019,By,customer2,Sales,41,,6880
+,,Item_2,50 Pcs,22.00/Pcs,1100,
+,,Item_6,340 Pcs,17.00/Pcs,5780,
+10-04-2019,By,customer2,Sales,42,,1430
+,,Item_7,65.00 MTR,22.00/MTR,1430,
+10-04-2019,By,customer31,Sales,43,,12430
+,,Item_1,310 Pcs,20.00/Pcs,6200,
+,,Item_6,250 Pcs,17.00/Pcs,4250,
+,,Item_2,90 Pcs,22.00/Pcs,1980,
+10-04-2019,By,customer13,Sales,44,,20400
+,,Item_6,1200 Pcs,17.00/Pcs,20400,
+10-04-2019,By,customer32,Sales,45,,9720
+,,Item_29,216.00 MTR,45.00/MTR,9720,
+10-04-2019,By,customer33,Sales,46,,67711.5
+,,Item_7,263.00 MTR,23.00/MTR,6049,
+,,Item_29,24.00 MTR,48.00/MTR,1152,
+,,Item_29,312.00 MTR,48.00/MTR,14976,
+,,Item_27,102.00 MTR,52.00/MTR,5304,
+,,Item_8,50.00 MTR,42.00/MTR,2100,
+,,Item_7,1358.50 MTR,23.00/MTR,31245.5,
+,,Item_6,405 Pcs,17.00/Pcs,6885,
+11-04-2019,By,customer34,Sales,48,,21967
+,,Item_27,40.00 MTR,52.00/MTR,2080,
+,,Item_7,188.50 MTR,22.00/MTR,4147,
+,,Item_1,140 Pcs,20.00/Pcs,2800,
+,,Item_2,100 Pcs,24.00/Pcs,2400,
+,,Item_6,440 Pcs,17.00/Pcs,7480,
+,,Item_28,36 Pcs,85.00/Pcs,3060,
+11-04-2019,By,customer26,Sales,49,,10824
+,,Item_27,104.00 MTR,51.00/MTR,5304,
+,,Item_31,120 Pcs,26.00/Pcs,3120,
+,,Item_1,120 Pcs,20.00/Pcs,2400,
+12-04-2019,By,customer8,Sales,50,,47745.25
+,,Item_32,22.75 MTR,95.00/MTR,2161.25,
+,,Item_3,24 Pcs,52.00/Pcs,1248,
+,,Item_27,406.00 MTR,48.00/MTR,19488,
+,,Item_29,648.00 MTR,36.00/MTR,23328,
+,,Item_8,40.00 MTR,38.00/MTR,1520,
+12-04-2019,By,customer16,Sales,51,,27800
+,,Item_6,50 Pcs,17.00/Pcs,850,
+,,Item_1,200 Pcs,19.25/Pcs,3850,
+,,Item_1,1200 Pcs,19.25/Pcs,23100,
+12-04-2019,By,customer35,Sales,52,,5200
+,,Item_27,100.00 MTR,52.00/MTR,5200,
+14-04-2019,By,customer35,Sales,53,,2000
+,,Item_2,40 Pcs,24.00/Pcs,960,
+,,Item_27,20.00 MTR,52.00/MTR,1040,
+14-04-2019,By,customer36,Sales,54,,29700.5
+,,Item_8,130.00 MTR,38.00/MTR,4940,
+,,Item_7,107.00 MTR,21.50/MTR,2300.5,
+,,Item_1,450 Pcs,19.50/Pcs,8775,
+,,Item_2,60 Pcs,23.50/Pcs,1410,
+,,Item_2,400 Pcs,21.00/Pcs,8400,
+,,Item_2,70 Pcs,28.00/Pcs,1960,
+,,Item_1,50 Pcs,19.50/Pcs,975,
+,,Item_2,40 Pcs,23.50/Pcs,940,
+14-04-2019,By,customer5,Sales,55,,55200
+,,Item_9,4800 Pcs,11.50/Pcs,55200,
+14-04-2019,By,customer37,Sales,56,,10470
+,,Item_19,500 Pcs,7.50/Pcs,3750,
+,,Item_6,240 Pcs,17.00/Pcs,4080,
+,,Item_2,120 Pcs,22.00/Pcs,2640,
+14-04-2019,By,customer38,Sales,57,,8126.5
+,,Item_6,120 Pcs,15.75/Pcs,1890,
+,,Item_7,220.00 MTR,20.50/MTR,4510,
+,,Item_29,24.00 MTR,36.00/MTR,864,
+,,Item_32,10.50 MTR,25.00/MTR,262.5,
+,,Item_3,15 Pcs,40.00/Pcs,600,
+15-04-2019,By,customer18,Sales,58,,12880
+,,Item_2,300 Pcs,24.00/Pcs,7200,
+,,Item_10,200 Pcs,14.00/Pcs,2800,
+,,Item_3,60 Pcs,48.00/Pcs,2880,
+15-04-2019,By,customer23,Sales,59,,3060
+,,Item_6,180 Pcs,17.00/Pcs,3060,
+15-04-2019,By,customer39,Sales,60,,9625
+,,Item_7,437.50 MTR,22.00/MTR,9625,
+15-04-2019,By,customer6,Sales,61,,5610
+,,Item_1,140 Pcs,19.50/Pcs,2730,
+,,Item_2,120 Pcs,24.00/Pcs,2880,
+15-04-2019,By,customer2,Sales,62,,170
+,,Item_6,10 Pcs,17.00/Pcs,170,
+15-04-2019,By,customer40,Sales,63,,4800
+,,Item_27,100.00 MTR,48.00/MTR,4800,
+15-04-2019,By,customer41,Sales,64,,6117
+,,Item_6,359 Pcs,17.00/Pcs,6103,
+,,Item_3,1 Pcs,14.00/Pcs,14,
+15-04-2019,By,customer42,Sales,65,,17874
+,,Item_7,267.00 MTR,22.00/MTR,5874,
+,,Item_29,24.00 MTR,36.00/MTR,864,
+,,Item_27,232.00 MTR,48.00/MTR,11136,
+15-04-2019,By,customer43,Sales,66,,13800
+,,Item_9,1200 Pcs,11.50/Pcs,13800,
+16-04-2019,By,customer5,Sales,67,,64800
+,,Item_7,1200.00 MTR,22.00/MTR,26400,
+,,Item_27,800.00 MTR,48.00/MTR,38400,
+16-04-2019,By,customer8,Sales,68,,1824
+,,Item_27,38.00 MTR,48.00/MTR,1824,
+16-04-2019,By,customer44,Sales,69,,14645
+,,Item_8,170.00 MTR,38.50/MTR,6545,
+,,Item_6,340 Pcs,16.50/Pcs,5610,
+,,Item_1,20 Pcs,19.50/Pcs,390,
+,,Item_26,36 Pcs,40.00/Pcs,1440,
+,,Item_3,12 Pcs,55.00/Pcs,660,
+19-04-2019,By,customer45,Sales,70,,3970
+,,Item_1,90 Pcs,20.00/Pcs,1800,
+,,Item_6,60 Pcs,17.00/Pcs,1020,
+,,Item_20,50 Pcs,8.50/Pcs,425,
+,,Item_19,50 Pcs,7.50/Pcs,375,
+,,Item_10,25 Pcs,14.00/Pcs,350,
+19-04-2019,By,customer33,Sales,72,,24924
+,,Item_7,803.00 MTR,23.00/MTR,18469,
+,,Item_2,60 Pcs,22.00/Pcs,1320,
+,,Item_2,91 Pcs,29.00/Pcs,2639,
+,,Item_18,30.00 MTR,68.00/MTR,2040,
+,,Item_18,15.00 MTR,30.40/MTR,456,
+19-04-2019,By,customer46,Sales,73,,27649.5
+,,Item_6,570 Pcs,17.00/Pcs,9690,
+,,Item_2,60 Pcs,21.00/Pcs,1260,
+,,Item_2,140 Pcs,22.00/Pcs,3080,
+,,Item_3,24 Pcs,60.00/Pcs,1440,
+,,Item_3,15 Pcs,30.00/Pcs,450,
+,,Item_27,100.00 MTR,50.00/MTR,5000,
+,,Item_7,313.00 MTR,21.50/MTR,6729.5,
+19-04-2019,By,customer5,Sales,74,,7200
+,,Item_33,240.00 MTR,30.00/MTR,7200,
+19-04-2019,By,customer47,Sales,75,,64864
+,,Item_27,418.00 MTR,48.00/MTR,20064,
+,,Item_8,280.00 MTR,40.00/MTR,11200,
+,,Item_18,240.00 MTR,58.00/MTR,13920,
+,,Item_7,480.00 MTR,22.00/MTR,10560,
+,,Item_29,240.00 MTR,38.00/MTR,9120,
+19-04-2019,By,customer48,Sales,76,,38480
+,,Item_34,592.00 MTR,65.00/MTR,38480,
+20-04-2019,By,customer8,Sales,77,,4950
+,,Item_6,300 Pcs,16.50/Pcs,4950,
+20-04-2019,By,customer49,Sales,78,,18818
+,,Item_2,140 Pcs,24.00/Pcs,3360,
+,,Item_1,130 Pcs,20.00/Pcs,2600,
+,,Item_7,198.00 MTR,22.00/MTR,4356,
+,,Item_27,126.00 MTR,52.00/MTR,6552,
+,,Item_9,150 Pcs,13.00/Pcs,1950,
+20-04-2019,By,customer43,Sales,79,,3654
+,,Item_33,121.80 MTR,30.00/MTR,3654,
+21-04-2019,By,customer50,Sales,80,,17347
+,,Item_6,555 Pcs,17.00/Pcs,9435,
+,,Item_3,22 Pcs,60.00/Pcs,1320,
+,,Item_3,20 Pcs,48.00/Pcs,960,
+,,Item_7,256.00 MTR,22.00/MTR,5632,
+21-04-2019,By,customer51,Sales,81,,32827.6
+,,Item_10,1200 Pcs,13.50/Pcs,16200,
+,,Item_1,540 Pcs,19.50/Pcs,10530,
+,,Item_33,134.40 MTR,29.00/MTR,3897.6,
+,,Item_7,100.00 MTR,22.00/MTR,2200,
+21-04-2019,By,customer20,Sales,82,,39786
+,,Item_6,830 Pcs,17.00/Pcs,14110,
+,,Item_2,80 Pcs,24.00/Pcs,1920,
+,,Item_29,48.00 MTR,45.00/MTR,2160,
+,,Item_27,50.00 MTR,51.00/MTR,2550,
+,,Item_7,593.00 MTR,22.00/MTR,13046,
+,,Item_1,300 Pcs,20.00/Pcs,6000,
+22-04-2019,By,customer52,Sales,83,,1700
+,,Item_2,30 Pcs,22.00/Pcs,660,
+,,Item_1,10 Pcs,20.00/Pcs,200,
+,,Item_1,10 Pcs,25.00/Pcs,250,
+,,Item_2,10 Pcs,30.00/Pcs,300,
+,,Item_2,10 Pcs,29.00/Pcs,290,
+22-04-2019,By,customer53,Sales,84,,24075
+,,Item_10,250 Pcs,14.00/Pcs,3500,
+,,Item_19,250 Pcs,7.50/Pcs,1875,
+,,Item_6,480 Pcs,17.00/Pcs,8160,
+,,Item_2,240 Pcs,24.00/Pcs,5760,
+,,Item_4,130 Pcs,30.00/Pcs,3900,
+,,Item_7,40.00 MTR,22.00/MTR,880,
+22-04-2019,By,customer54,Sales,85,,16800
+,,Item_2,310 Pcs,24.00/Pcs,7440,
+,,Item_27,112.00 MTR,50.00/MTR,5600,
+,,Item_29,24.00 MTR,40.00/MTR,960,
+,,Item_18,30.00 MTR,64.00/MTR,1920,
+,,Item_7,40.00 MTR,22.00/MTR,880,
+23-04-2019,By,customer17,Sales,86,,23616
+,,Item_34,369.00 MTR,64.00/MTR,23616,
+23-04-2019,By,customer55,Sales,87,,1400
+,,Item_5,35 Pcs,40.00/Pcs,1400,
+23-04-2019,By,customer27,Sales,88,,25179
+,,Item_6,1480 Pcs,17.00/Pcs,25160,
+,,Item_3,1 Pcs,19.00/Pcs,19,
+24-04-2019,By,customer56,Sales,89,,35025
+,,Item_33,26.60 MTR,30.00/MTR,798,
+,,Item_7,1555.00 MTR,22.00/MTR,34210,
+,,Item_3,1 Pcs,17.00/Pcs,17,
+24-04-2019,By,customer46,Sales,90,,2640
+,,Item_2,120 Pcs,22.00/Pcs,2640,
+24-04-2019,By,customer57,Sales,91,,3600
+,,Item_9,300 Pcs,12.00/Pcs,3600,
+25-04-2019,By,customer40,Sales,92,,6704
+,,Item_29,120.00 MTR,42.00/MTR,5040,
+,,Item_4,52 Pcs,32.00/Pcs,1664,
+25-04-2019,By,customer58,Sales,93,,47492.2
+,,Item_29,360.00 MTR,42.00/MTR,15120,
+,,Item_27,90.00 MTR,48.00/MTR,4320,
+,,Item_15,168.00 MTR,85.00/MTR,14280,
+,,Item_18,64.60 MTR,32.00/MTR,2067.2,
+,,Item_15,125.00 MTR,85.00/MTR,10625,
+,,Item_17,12.00 MTR,90.00/MTR,1080,
+25-04-2019,By,customer8,Sales,94,,6975
+,,Item_2,300 Pcs,23.25/Pcs,6975,
+25-04-2019,By,customer36,Sales,95,,7500
+,,Item_10,300 Pcs,13.50/Pcs,4050,
+,,Item_9,300 Pcs,11.50/Pcs,3450,
+25-04-2019,By,customer59,Sales,96,,22691
+,,Item_27,100.00 MTR,52.00/MTR,5200,
+,,Item_7,292.50 MTR,22.00/MTR,6435,
+,,Item_35,28.00 MTR,65.00/MTR,1820,
+,,Item_5,25 Pcs,42.00/Pcs,1050,
+,,Item_15,48.00 MTR,90.00/MTR,4320,
+,,Item_33,26.20 MTR,30.00/MTR,786,
+,,Item_4,30 Pcs,30.00/Pcs,900,
+,,Item_4,12 Pcs,35.00/Pcs,420,
+,,Item_2,80 Pcs,22.00/Pcs,1760,
+25-04-2019,By,customer60,Sales,97,,9540
+,,Item_36,84 Pcs,85.00/Pcs,7140,
+,,Item_1,120 Pcs,20.00/Pcs,2400,
+25-04-2019,By,customer61,Sales,98,,24190
+,,Item_7,1020.00 MTR,22.00/MTR,22440,
+,,Item_3,22 Pcs,55.00/Pcs,1210,
+,,Item_3,12 Pcs,45.00/Pcs,540,
+25-04-2019,By,customer2,Sales,99,,1200
+,,Item_6,70 Pcs,17.00/Pcs,1190,
+,,Item_3,1 Pcs,10.00/Pcs,10,
+25-04-2019,By,customer38,Sales,100,,15968
+,,Item_37,345 Pcs,29.60/Pcs,10212,
+,,Item_3,50 Pcs,24.00/Pcs,1200,
+,,Item_3,15 Pcs,40.00/Pcs,600,
+,,Item_23,43 Pcs,42.00/Pcs,1806,
+,,Item_3,20 Pcs,30.00/Pcs,600,
+,,Item_3,10 Pcs,60.00/Pcs,600,
+,,Item_38,25 Pcs,38.00/Pcs,950,
+26-04-2019,By,customer2,Sales,101,,6970
+,,Item_6,410 Pcs,17.00/Pcs,6970,
+26-04-2019,By,customer2,Sales,102,,9313
+,,Item_6,620 Pcs,15.00/Pcs,9300,
+,,Item_3,1 Pcs,13.00/Pcs,13,
+26-04-2019,By,customer35,Sales,103,,5480
+,,Item_33,24.00 MTR,30.00/MTR,720,
+,,Item_6,280 Pcs,17.00/Pcs,4760,
+26-04-2019,By,customer62,Sales,104,,6733.25
+,,Item_6,70 Pcs,16.00/Pcs,1120,
+,,Item_7,218.50 MTR,20.50/MTR,4479.25,
+,,Item_3,27 Pcs,42.00/Pcs,1134,
+26-04-2019,By,customer4,Sales,105,,27214
+,,Item_6,700 Pcs,17.00/Pcs,11900,
+,,Item_7,688.00 MTR,21.75/MTR,14964,
+,,Item_10,25 Pcs,14.00/Pcs,350,
+27-04-2019,By,customer53,Sales,106,,6000
+,,Item_1,300 Pcs,20.00/Pcs,6000,
+27-04-2019,By,customer63,Sales,107,,2175
+,,Item_19,300 Pcs,7.25/Pcs,2175,
+27-04-2019,By,customer64,Sales,108,,2200
+,,Item_1,110 Pcs,20.00/Pcs,2200,
+27-04-2019,By,customer65,Sales,109,,6000
+,,Item_1,220 Pcs,20.00/Pcs,4400,
+,,Item_27,20.00 MTR,50.00/MTR,1000,
+,,Item_21,20 Pcs,30.00/Pcs,600,
+27-04-2019,By,customer44,Sales,110,,4080
+,,Item_15,48.00 MTR,85.00/MTR,4080,
+28-04-2019,By,customer66,Sales,111,,19259
+,,Item_7,874.00 MTR,22.00/MTR,19228,
+,,Item_3,1 Pcs,31.00/Pcs,31,
+28-04-2019,By,customer67,Sales,112,,5270
+,,Item_6,310 Pcs,17.00/Pcs,5270,
+30-04-2019,By,customer68,Sales,113,,42564.5
+,,Item_2,500 Pcs,24.00/Pcs,12000,
+,,Item_29,72.00 MTR,48.00/MTR,3456,
+,,Item_27,38.00 MTR,52.00/MTR,1976,
+,,Item_15,72.00 MTR,90.00/MTR,6480,
+,,Item_39,12.00 MTR,125.00/MTR,1500,
+,,Item_40,12.00 MTR,65.00/MTR,780,
+,,Item_41,23.25 MTR,140.00/MTR,3255,
+,,Item_39,23.25 MTR,110.00/MTR,2557.5,
+,,Item_7,480.00 MTR,22.00/MTR,10560,
+30-04-2019,By,customer69,Sales,114,,32046.5
+,,Item_1,240 Pcs,18.50/Pcs,4440,
+,,Item_10,100 Pcs,13.00/Pcs,1300,
+,,Item_15,96.00 MTR,75.00/MTR,7200,
+,,Item_33,26.50 MTR,30.00/MTR,795,
+,,Item_7,629.00 MTR,21.50/MTR,13523.5,
+,,Item_32,12.00 MTR,120.00/MTR,1440,
+,,Item_32,12.00 MTR,99.00/MTR,1188,
+,,Item_32,24.00 MTR,90.00/MTR,2160,
+30-04-2019,By,customer70,Sales,115,,10810
+,,Item_2,180 Pcs,24.00/Pcs,4320,
+,,Item_6,60 Pcs,17.00/Pcs,1020,
+,,Item_19,200 Pcs,7.50/Pcs,1500,
+,,Item_9,200 Pcs,12.50/Pcs,2500,
+,,Item_10,75 Pcs,14.00/Pcs,1050,
+,,Item_4,12 Pcs,35.00/Pcs,420,
+30-04-2019,By,customer71,Sales,116,,11547.25
+,,Item_24,33.50 MTR,35.00/MTR,1172.5,
+,,Item_42,12.00 MTR,55.00/MTR,660,
+,,Item_43,14.00 MTR,55.00/MTR,770,
+,,Item_43,14.60 MTR,60.00/MTR,876,
+,,Item_18,50.00 MTR,55.00/MTR,2750,
+,,Item_16,25.75 MTR,125.00/MTR,3218.75,
+,,Item_7,100.00 MTR,21.00/MTR,2100,
+30-04-2019,By,customer58,Sales,117,,24000
+,,Item_27,500.00 MTR,48.00/MTR,24000,
+30-04-2019,By,customer58,Sales,118,,24000
+,,Item_27,500.00 MTR,48.00/MTR,24000,
+01-05-2019,By,customer72,Sales,119,,9593.6
+,,Item_4,10 Pcs,20.00/Pcs,200,
+,,Item_4,12 Pcs,50.00/Pcs,600,
+,,Item_4,12 Pcs,35.00/Pcs,420,
+,,Item_15,27.20 MTR,38.00/MTR,1033.6,
+,,Item_15,60.00 MTR,90.00/MTR,5400,
+,,Item_18,12.00 MTR,125.00/MTR,1500,
+,,Item_7,20.00 MTR,22.00/MTR,440,
+01-05-2019,By,customer73,Sales,120,,10010
+,,Item_44,100 Pcs,23.00/Pcs,2300,
+,,Item_10,125 Pcs,13.00/Pcs,1625,
+,,Item_4,120 Pcs,25.00/Pcs,3000,
+,,Item_2,60 Pcs,30.00/Pcs,1800,
+,,Item_4,25 Pcs,25.00/Pcs,625,
+,,Item_4,12 Pcs,55.00/Pcs,660,
+01-05-2019,By,customer1,Sales,121,,4045
+,,Item_7,140.00 MTR,21.75/MTR,3045,
+,,Item_1,50 Pcs,20.00/Pcs,1000,
+02-05-2019,By,customer5,Sales,122,,55200
+,,Item_9,4800 Pcs,11.50/Pcs,55200,
+02-05-2019,By,customer15,Sales,123,,49689.5
+,,Item_2,2484 Pcs,20.00/Pcs,49680,
+,,Item_4,1 Pcs,9.50/Pcs,9.5,
+02-05-2019,By,customer42,Sales,124,,46000
+,,Item_7,1000.00 MTR,22.00/MTR,22000,
+,,Item_27,500.00 MTR,48.00/MTR,24000,
+02-05-2019,By,customer19,Sales,125,,23630
+,,Item_2,1181 Pcs,20.00/Pcs,23620,
+,,Item_4,1 Pcs,10.00/Pcs,10,
+02-05-2019,By,customer2,Sales,126,,2550
+,,Item_6,150 Pcs,17.00/Pcs,2550,
+03-05-2019,By,customer27,Sales,127,,5290
+,,Item_4,82 Pcs,35.00/Pcs,2870,
+,,Item_9,200 Pcs,12.00/Pcs,2400,
+,,Item_4,1 Pcs,20.00/Pcs,20,
+04-05-2019,By,customer74,Sales,128,,6355
+,,Item_2,317 Pcs,20.00/Pcs,6340,
+,,Item_45,0.50 MTR,30.00/MTR,15,
+04-05-2019,By,customer18,Sales,129,,6000
+,,Item_1,300 Pcs,20.00/Pcs,6000,
+04-05-2019,By,customer75,Sales,130,,5935
+,,Item_2,140 Pcs,24.00/Pcs,3360,
+,,Item_9,100 Pcs,12.00/Pcs,1200,
+,,Item_19,50 Pcs,7.50/Pcs,375,
+,,Item_4,25 Pcs,40.00/Pcs,1000,
+04-05-2019,By,customer76,Sales,131,,2650
+,,Item_10,100 Pcs,14.00/Pcs,1400,
+,,Item_9,100 Pcs,12.50/Pcs,1250,
+05-05-2019,By,customer8,Sales,132,,20253
+,,Item_2,360 Pcs,23.25/Pcs,8370,
+,,Item_6,160 Pcs,16.50/Pcs,2640,
+,,Item_15,12.00 MTR,75.00/MTR,900,
+,,Item_7,267.00 MTR,21.00/MTR,5607,
+,,Item_29,36.00 MTR,36.00/MTR,1296,
+,,Item_27,30.00 MTR,48.00/MTR,1440,
+05-05-2019,By,customer17,Sales,133,,22720
+,,Item_7,1000.00 MTR,22.00/MTR,22000,
+,,Item_33,24.00 MTR,30.00/MTR,720,
+05-05-2019,By,customer18,Sales,134,,28928
+,,Item_7,500.00 MTR,22.00/MTR,11000,
+,,Item_2,672 Pcs,24.00/Pcs,16128,
+,,Item_4,50 Pcs,36.00/Pcs,1800,
+05-05-2019,By,customer55,Sales,135,,12920
+,,Item_6,760 Pcs,17.00/Pcs,12920,
+06-05-2019,By,customer36,Sales,136,,58948
+,,Item_8,150.00 MTR,38.00/MTR,5700,
+,,Item_27,384.00 MTR,63.00/MTR,24192,
+,,Item_2,320 Pcs,23.50/Pcs,7520,
+,,Item_1,400 Pcs,19.50/Pcs,7800,
+,,Item_2,200 Pcs,28.00/Pcs,5600,
+,,Item_33,51.20 MTR,30.00/MTR,1536,
+,,Item_2,100 Pcs,22.00/Pcs,2200,
+,,Item_15,24.00 MTR,80.00/MTR,1920,
+,,Item_18,40.00 MTR,32.00/MTR,1280,
+,,Item_32,12.00 MTR,100.00/MTR,1200,
+06-05-2019,By,customer77,Sales,137,,15680
+,,Item_6,450 Pcs,17.00/Pcs,7650,
+,,Item_10,50 Pcs,14.00/Pcs,700,
+,,Item_5,30 Pcs,52.00/Pcs,1560,
+,,Item_10,50 Pcs,14.00/Pcs,700,
+,,Item_4,115 Pcs,38.00/Pcs,4370,
+,,Item_4,25 Pcs,28.00/Pcs,700,
+06-05-2019,By,customer78,Sales,138,,15850
+,,Item_1,50 Pcs,20.00/Pcs,1000,
+,,Item_2,220 Pcs,22.00/Pcs,4840,
+,,Item_4,30 Pcs,45.00/Pcs,1350,
+,,Item_4,12 Pcs,60.00/Pcs,720,
+,,Item_4,15 Pcs,30.00/Pcs,450,
+,,Item_4,10 Pcs,22.00/Pcs,220,
+,,Item_4,10 Pcs,25.00/Pcs,250,
+,,Item_4,20 Pcs,24.00/Pcs,480,
+,,Item_10,75 Pcs,14.00/Pcs,1050,
+,,Item_15,48.00 MTR,90.00/MTR,4320,
+,,Item_4,10 Pcs,75.00/Pcs,750,
+,,Item_4,12 Pcs,35.00/Pcs,420,
+06-05-2019,By,customer16,Sales,139,,7420
+,,Item_4,10 Pcs,30.00/Pcs,300,
+,,Item_2,10 Pcs,24.00/Pcs,240,
+,,Item_6,120 Pcs,17.00/Pcs,2040,
+,,Item_7,220.00 MTR,22.00/MTR,4840,
+07-05-2019,By,customer72,Sales,140,,3449
+,,Item_7,140.00 MTR,22.00/MTR,3080,
+,,Item_46,20.50 MTR,18.00/MTR,369,
+07-05-2019,By,customer79,Sales,141,,6200
+,,Item_10,150 Pcs,14.00/Pcs,2100,
+,,Item_1,120 Pcs,20.00/Pcs,2400,
+,,Item_20,200 Pcs,8.50/Pcs,1700,
+08-05-2019,By,customer38,Sales,142,,6662
+,,Item_2,80 Pcs,21.00/Pcs,1680,
+,,Item_6,50 Pcs,16.00/Pcs,800,
+,,Item_7,204.00 MTR,20.50/MTR,4182,
+08-05-2019,By,customer13,Sales,143,,3170
+,,Item_2,50 Pcs,22.00/Pcs,1100,
+,,Item_6,30 Pcs,17.00/Pcs,510,
+,,Item_4,60 Pcs,26.00/Pcs,1560,
+09-05-2019,By,customer14,Sales,144,,11669
+,,Item_6,700 Pcs,16.67/Pcs,11669,
+09-05-2019,By,customer12,Sales,145,,95220
+,,Item_6,3400 Pcs,16.50/Pcs,56100,
+,,Item_1,400 Pcs,18.50/Pcs,7400,
+,,Item_4,550 Pcs,28.00/Pcs,15400,
+,,Item_2,680 Pcs,24.00/Pcs,16320,
+09-05-2019,By,customer2,Sales,146,,8140.5
+,,Item_6,110 Pcs,17.00/Pcs,1870,
+,,Item_1,70 Pcs,20.00/Pcs,1400,
+,,Item_4,24 Pcs,35.00/Pcs,840,
+,,Item_7,140.00 MTR,22.00/MTR,3080,
+,,Item_18,12.30 MTR,35.00/MTR,430.5,
+,,Item_2,20 Pcs,26.00/Pcs,520,
+09-05-2019,By,customer80,Sales,147,,12716
+,,Item_7,578.00 MTR,22.00/MTR,12716,
+10-05-2019,By,customer16,Sales,148,,1343
+,,Item_7,44.00 MTR,22.00/MTR,968,
+,,Item_19,50 Pcs,7.50/Pcs,375,
+10-05-2019,By,customer5,Sales,149,,27600
+,,Item_9,2400 Pcs,11.50/Pcs,27600,
+10-05-2019,By,customer36,Sales,150,,18655.25
+,,Item_16,106.25 MTR,85.00/MTR,9031.25,
+,,Item_15,48.00 MTR,80.00/MTR,3840,
+,,Item_27,20.00 MTR,48.00/MTR,960,
+,,Item_18,72.00 MTR,67.00/MTR,4824,
+11-05-2019,By,customer5,Sales,151,,14000
+,,Item_19,2000 Pcs,7.00/Pcs,14000,
+13-05-2019,By,customer68,Sales,152,,27527.75
+,,Item_27,10.00 MTR,52.00/MTR,520,
+,,Item_15,60.00 MTR,85.00/MTR,5100,
+,,Item_18,139.25 MTR,75.00/MTR,10443.75,
+,,Item_7,362.00 MTR,22.00/MTR,7964,
+,,Item_24,100.00 MTR,35.00/MTR,3500,
+13-05-2019,By,customer33,Sales,153,,32507.75
+,,Item_6,1860 Pcs,17.00/Pcs,31620,
+,,Item_3,1 Pcs,7.75/Pcs,7.75,
+,,Item_2,40 Pcs,22.00/Pcs,880,
+14-05-2019,By,customer8,Sales,154,,42274
+,,Item_2,600 Pcs,23.25/Pcs,13950,
+,,Item_2,360 Pcs,20.50/Pcs,7380,
+,,Item_6,980 Pcs,16.50/Pcs,16170,
+,,Item_47,25.00 MTR,48.00/MTR,1200,
+,,Item_32,10.00 MTR,55.00/MTR,550,
+,,Item_16,36.00 MTR,84.00/MTR,3024,
+15-05-2019,By,customer45,Sales,155,,5576
+,,Item_6,337 Pcs,16.50/Pcs,5560.5,
+,,Item_4,1 Pcs,15.50/Pcs,15.5,
+15-05-2019,By,customer38,Sales,156,,21079.25
+,,Item_3,24 Pcs,55.00/Pcs,1320,
+,,Item_26,37 Pcs,38.00/Pcs,1406,
+,,Item_3,23 Pcs,67.00/Pcs,1541,
+,,Item_3,100 Pcs,30.00/Pcs,3000,
+,,Item_16,12.00 MTR,90.00/MTR,1080,
+,,Item_7,464.50 MTR,20.50/MTR,9522.25,
+,,Item_3,10 Pcs,45.00/Pcs,450,
+,,Item_3,120 Pcs,23.00/Pcs,2760,
+15-05-2019,By,customer80,Sales,157,,30091
+,,Item_7,1285.50 MTR,22.00/MTR,28281,
+,,Item_1,20 Pcs,20.00/Pcs,400,
+,,Item_2,30 Pcs,22.00/Pcs,660,
+,,Item_3,15 Pcs,50.00/Pcs,750,
+15-05-2019,By,customer6,Sales,158,,2730
+,,Item_1,140 Pcs,19.50/Pcs,2730,
+15-05-2019,By,customer81,Sales,159,,13245
+,,Item_10,25 Pcs,14.00/Pcs,350,
+,,Item_2,60 Pcs,22.00/Pcs,1320,
+,,Item_9,25 Pcs,12.00/Pcs,300,
+,,Item_37,50 Pcs,38.00/Pcs,1900,
+,,Item_3,34 Pcs,35.00/Pcs,1190,
+,,Item_3,15 Pcs,30.00/Pcs,450,
+,,Item_19,50 Pcs,7.50/Pcs,375,
+,,Item_6,130 Pcs,17.00/Pcs,2210,
+,,Item_5,50 Pcs,40.00/Pcs,2000,
+,,Item_12,50 Pcs,35.00/Pcs,1750,
+,,Item_1,60 Pcs,20.00/Pcs,1200,
+,,Item_3,10 Pcs,20.00/Pcs,200,
+15-05-2019,By,customer65,Sales,160,,15798
+,,Item_28,144 Pcs,85.00/Pcs,12240,
+,,Item_1,60 Pcs,20.00/Pcs,1200,
+,,Item_30,36 Pcs,28.00/Pcs,1008,
+,,Item_3,45 Pcs,30.00/Pcs,1350,
+16-05-2019,By,customer4,Sales,161,,26258
+,,Item_27,68.00 MTR,48.00/MTR,3264,
+,,Item_1,10 Pcs,20.00/Pcs,200,
+,,Item_21,30 Pcs,30.00/Pcs,900,
+,,Item_34,30.00 MTR,65.00/MTR,1950,
+,,Item_1,90 Pcs,20.00/Pcs,1800,
+,,Item_27,378.00 MTR,48.00/MTR,18144,
+16-05-2019,By,customer12,Sales,162,,52290
+,,Item_27,730.00 MTR,48.00/MTR,35040,
+,,Item_3,750 Pcs,23.00/Pcs,17250,
+16-05-2019,By,customer44,Sales,163,,29113.95
+,,Item_1,600 Pcs,19.25/Pcs,11550,
+,,Item_6,80 Pcs,16.50/Pcs,1320,
+,,Item_8,120.00 MTR,38.50/MTR,4620,
+,,Item_38,50 Pcs,38.00/Pcs,1900,
+,,Item_3,30 Pcs,25.00/Pcs,750,
+,,Item_3,15 Pcs,45.00/Pcs,675,
+,,Item_3,40 Pcs,55.00/Pcs,2200,
+,,Item_18,44.75 MTR,69.00/MTR,3087.75,
+,,Item_42,24.00 MTR,50.00/MTR,1200,
+,,Item_24,56.60 MTR,32.00/MTR,1811.2,
+16-05-2019,By,customer2,Sales,164,,165
+,,Item_6,10 Pcs,16.50/Pcs,165,
+16-05-2019,By,customer30,Sales,165,,3421
+,,Item_3,45 Pcs,25.00/Pcs,1125,
+,,Item_2,60 Pcs,24.00/Pcs,1440,
+,,Item_38,12 Pcs,38.00/Pcs,456,
+,,Item_1,20 Pcs,20.00/Pcs,400,
+17-05-2019,By,customer82,Sales,166,,4464
+,,Item_48,111 Pcs,40.00/Pcs,4440,
+,,Item_3,1 Pcs,24.00/Pcs,24,
+17-05-2019,By,customer36,Sales,167,,9450
+,,Item_34,150.00 MTR,63.00/MTR,9450,
+17-05-2019,By,customer20,Sales,168,,9630
+,,Item_6,566 Pcs,17.00/Pcs,9622,
+,,Item_3,1 Pcs,8.00/Pcs,8,
+17-05-2019,By,customer3,Sales,169,,18960
+,,Item_2,40 Pcs,24.00/Pcs,960,
+,,Item_2,200 Pcs,24.00/Pcs,4800,
+,,Item_7,600.00 MTR,22.00/MTR,13200,
+17-05-2019,By,customer2,Sales,170,,8500
+,,Item_6,500 Pcs,17.00/Pcs,8500,
+19-05-2019,By,customer3,Sales,171,,2700
+,,Item_3,300 Pcs,9.00/Pcs,2700,
+19-05-2019,By,customer5,Sales,172,,46530
+,,Item_2,1980 Pcs,23.50/Pcs,46530,
+20-05-2019,By,customer13,Sales,173,,13612
+,,Item_6,800 Pcs,17.00/Pcs,13600,
+,,Item_3,1 Pcs,12.00/Pcs,12,
+20-05-2019,By,customer83,Sales,174,,18882
+,,Item_7,759.00 MTR,22.00/MTR,16698,
+,,Item_24,62.40 MTR,35.00/MTR,2184,
+20-05-2019,By,customer12,Sales,175,,71348
+,,Item_3,227 Pcs,23.00/Pcs,5221,
+,,Item_3,127 Pcs,30.00/Pcs,3810,
+,,Item_3,45 Pcs,20.00/Pcs,900,
+,,Item_38,24 Pcs,38.00/Pcs,912,
+,,Item_3,120 Pcs,35.00/Pcs,4200,
+,,Item_3,160 Pcs,40.00/Pcs,6400,
+,,Item_3,40 Pcs,55.00/Pcs,2200,
+,,Item_3,20 Pcs,50.00/Pcs,1000,
+,,Item_3,30 Pcs,45.00/Pcs,1350,
+,,Item_3,20 Pcs,75.00/Pcs,1500,
+,,Item_3,20 Pcs,60.00/Pcs,1200,
+,,Item_3,20 Pcs,105.00/Pcs,2100,
+,,Item_3,15 Pcs,37.00/Pcs,555,
+,,Item_3,1000 Pcs,40.00/Pcs,40000,
+20-05-2019,By,customer84,Sales,176,,41843.25
+,,Item_6,2461 Pcs,17.00/Pcs,41837,
+,,Item_3,1 Pcs,6.25/Pcs,6.25,
+20-05-2019,By,customer84,Sales,177,,8925
+,,Item_19,1190 Pcs,7.50/Pcs,8925,
+20-05-2019,By,customer85,Sales,178,,1166.4
+,,Item_47,24.30 MTR,48.00/MTR,1166.4,
+20-05-2019,By,customer2,Sales,179,,425
+,,Item_6,25 Pcs,17.00/Pcs,425,
+20-05-2019,By,customer16,Sales,180,,5940
+,,Item_6,360 Pcs,16.50/Pcs,5940,
+22-05-2019,By,customer54,Sales,181,,11418.4
+,,Item_29,84.00 MTR,40.00/MTR,3360,
+,,Item_27,70.00 MTR,50.00/MTR,3500,
+,,Item_16,12.00 MTR,90.00/MTR,1080,
+,,Item_2,40 Pcs,24.00/Pcs,960,
+,,Item_24,33.70 MTR,32.00/MTR,1078.4,
+,,Item_32,24.00 MTR,60.00/MTR,1440,
+22-05-2019,By,customer46,Sales,182,,29345.05
+,,Item_6,230 Pcs,17.00/Pcs,3910,
+,,Item_18,60.00 MTR,65.00/MTR,3900,
+,,Item_15,60.00 MTR,85.00/MTR,5100,
+,,Item_49,24.00 MTR,60.00/MTR,1440,
+,,Item_16,12.00 MTR,95.00/MTR,1140,
+,,Item_39,10.75 MTR,75.00/MTR,806.25,
+,,Item_42,12.00 MTR,55.00/MTR,660,
+,,Item_14,4.00 MTR,60.00/MTR,240,
+,,Item_24,93.40 MTR,32.00/MTR,2988.8,
+,,Item_5,229 Pcs,40.00/Pcs,9160,
+22-05-2019,By,customer46,Sales,183,,19189
+,,Item_7,871.00 MTR,22.00/MTR,19162,
+,,Item_3,1 Pcs,27.00/Pcs,27,
+22-05-2019,By,customer66,Sales,184,,59117.5
+,,Item_29,600.00 MTR,48.00/MTR,28800,
+,,Item_16,44.00 MTR,90.00/MTR,3960,
+,,Item_50,12.00 MTR,60.00/MTR,720,
+,,Item_43,10.25 MTR,70.00/MTR,717.5,
+,,Item_49,12.00 MTR,60.00/MTR,720,
+,,Item_11,668.00 MTR,35.00/MTR,23380,
+,,Item_48,20 Pcs,41.00/Pcs,820,
+23-05-2019,By,customer8,Sales,185,,30307
+,,Item_43,72.00 MTR,74.00/MTR,5328,
+,,Item_50,12.00 MTR,80.00/MTR,960,
+,,Item_41,24.00 MTR,55.00/MTR,1320,
+,,Item_3,10 Pcs,73.00/Pcs,730,
+,,Item_3,20 Pcs,100.00/Pcs,2000,
+,,Item_2,100 Pcs,23.25/Pcs,2325,
+,,Item_27,112.00 MTR,48.00/MTR,5376,
+,,Item_8,50.00 MTR,38.00/MTR,1900,
+,,Item_29,288.00 MTR,36.00/MTR,10368,
+23-05-2019,By,customer86,Sales,186,,51903
+,,Item_34,414.00 MTR,68.00/MTR,28152,
+,,Item_7,1079.00 MTR,22.00/MTR,23738,
+,,Item_3,1 Pcs,13.00/Pcs,13,
+24-05-2019,By,customer87,Sales,187,,15060
+,,Item_32,12.00 MTR,55.00/MTR,660,
+,,Item_32,24.00 MTR,50.00/MTR,1200,
+,,Item_43,36.00 MTR,100.00/MTR,3600,
+,,Item_27,200.00 MTR,48.00/MTR,9600,
+26-05-2019,By,customer18,Sales,188,,9240
+,,Item_7,420.00 MTR,22.00/MTR,9240,
+26-05-2019,By,customer23,Sales,189,,10200
+,,Item_28,120 Pcs,85.00/Pcs,10200,
+26-05-2019,By,customer30,Sales,190,,1600
+,,Item_12,50 Pcs,32.00/Pcs,1600,
+26-05-2019,By,customer5,Sales,191,,6720
+,,Item_27,140.00 MTR,48.00/MTR,6720,
+26-05-2019,By,customer63,Sales,192,,2510
+,,Item_3,30 Pcs,25.00/Pcs,750,
+,,Item_8,20.00 MTR,40.00/MTR,800,
+,,Item_27,20.00 MTR,48.00/MTR,960,
+26-05-2019,By,customer19,Sales,193,,43771.75
+,,Item_7,1989.00 MTR,22.00/MTR,43758,
+,,Item_3,1 Pcs,13.75/Pcs,13.75,
+29-05-2019,By,customer88,Sales,194,,31045
+,,Item_7,1410.00 MTR,22.00/MTR,31020,
+,,Item_3,1 Pcs,25.00/Pcs,25,
+31-05-2019,By,customer36,Sales,196,,19330
+,,Item_2,640 Pcs,23.50/Pcs,15040,
+,,Item_1,170 Pcs,19.50/Pcs,3315,
+,,Item_40,12.00 MTR,50.00/MTR,600,
+,,Item_3,15 Pcs,25.00/Pcs,375,
+01-06-2019,By,customer4,Sales,197,,11204
+,,Item_6,658 Pcs,17.00/Pcs,11186,
+,,Item_3,1 Pcs,18.00/Pcs,18,
+01-06-2019,By,customer63,Sales,198,,630
+,,Item_24,18.00 MTR,35.00/MTR,630,
+01-06-2019,By,customer12,Sales,199,,49444.5
+,,Item_33,370.50 MTR,29.00/MTR,10744.5,
+,,Item_2,1200 Pcs,22.00/Pcs,26400,
+,,Item_19,500 Pcs,7.00/Pcs,3500,
+,,Item_7,400.00 MTR,22.00/MTR,8800,
+01-06-2019,By,customer65,Sales,200,,6828
+,,Item_36,36 Pcs,85.00/Pcs,3060,
+,,Item_1,140 Pcs,20.00/Pcs,2800,
+,,Item_7,44.00 MTR,22.00/MTR,968,
+02-06-2019,By,customer6,Sales,201,,2340
+,,Item_1,120 Pcs,19.50/Pcs,2340,
+02-06-2019,By,customer85,Sales,202,,3800
+,,Item_3,100 Pcs,38.00/Pcs,3800,
+02-06-2019,By,customer17,Sales,203,,6144
+,,Item_34,96.00 MTR,64.00/MTR,6144,
+02-06-2019,By,customer12,Sales,204,,3150
+,,Item_3,30 Pcs,105.00/Pcs,3150,
+05-06-2019,By,customer41,Sales,205,,6050
+,,Item_1,70 Pcs,20.00/Pcs,1400,
+,,Item_36,30 Pcs,85.00/Pcs,2550,
+,,Item_4,70 Pcs,30.00/Pcs,2100,
+06-06-2019,By,customer8,Sales,206,,12570.2
+,,Item_4,360 Pcs,23.25/Pcs,8370,
+,,Item_50,76.60 MTR,47.00/MTR,3600.2,
+,,Item_18,12.00 MTR,50.00/MTR,600,
+06-06-2019,By,customer89,Sales,207,,13680
+,,Item_4,350 Pcs,32.00/Pcs,11200,
+,,Item_4,62 Pcs,40.00/Pcs,2480,
+06-06-2019,By,customer90,Sales,208,,4405
+,,Item_9,50 Pcs,12.00/Pcs,600,
+,,Item_4,45 Pcs,40.00/Pcs,1800,
+,,Item_4,25 Pcs,45.00/Pcs,1125,
+,,Item_4,10 Pcs,28.00/Pcs,280,
+,,Item_4,20 Pcs,30.00/Pcs,600,
+07-06-2019,By,customer2,Sales,209,,5163
+,,Item_4,200 Pcs,25.75/Pcs,5150,
+,,Item_4,1 Pcs,13.00/Pcs,13,
+08-06-2019,By,customer13,Sales,210,,13264
+,,Item_1,10 Pcs,20.00/Pcs,200,
+,,Item_6,120 Pcs,17.00/Pcs,2040,
+,,Item_4,310 Pcs,22.00/Pcs,6820,
+,,Item_4,60 Pcs,25.00/Pcs,1500,
+,,Item_5,52 Pcs,52.00/Pcs,2704,
+09-06-2019,By,customer91,Sales,211,,9344.2
+,,Item_3,20 Pcs,10.00/Pcs,200,
+,,Item_3,10 Pcs,28.00/Pcs,280,
+,,Item_3,10 Pcs,53.00/Pcs,530,
+,,Item_3,10 Pcs,48.00/Pcs,480,
+,,Item_3,10 Pcs,21.00/Pcs,210,
+,,Item_3,60 Pcs,24.00/Pcs,1440,
+,,Item_18,50.10 MTR,48.00/MTR,2404.8,
+,,Item_51,20.00 MTR,55.00/MTR,1100,
+,,Item_18,13.25 MTR,68.00/MTR,901,
+,,Item_18,18.10 MTR,40.00/MTR,724,
+,,Item_3,20 Pcs,17.00/Pcs,340,
+,,Item_18,10.80 MTR,68.00/MTR,734.4,
+10-06-2019,By,customer57,Sales,212,,5500
+,,Item_1,120 Pcs,20.00/Pcs,2400,
+,,Item_4,60 Pcs,25.00/Pcs,1500,
+,,Item_4,50 Pcs,32.00/Pcs,1600,
+11-06-2019,By,customer66,Sales,213,,44520
+,,Item_18,624.00 MTR,65.00/MTR,40560,
+,,Item_7,180.00 MTR,22.00/MTR,3960,
+11-06-2019,By,customer77,Sales,214,,7178
+,,Item_18,24.00 MTR,52.00/MTR,1248,
+,,Item_3,50 Pcs,42.00/Pcs,2100,
+,,Item_3,120 Pcs,22.00/Pcs,2640,
+,,Item_6,70 Pcs,17.00/Pcs,1190,
+11-06-2019,By,customer23,Sales,215,,600
+,,Item_9,50 Pcs,12.00/Pcs,600,
+12-06-2019,By,customer16,Sales,216,,2700
+,,Item_18,23.00 MTR,70.00/MTR,1610,
+,,Item_6,20 Pcs,17.00/Pcs,340,
+,,Item_19,100 Pcs,7.50/Pcs,750,
+12-06-2019,By,customer2,Sales,217,,2100
+,,Item_6,20 Pcs,17.00/Pcs,340,
+,,Item_7,80.00 MTR,22.00/MTR,1760,
+12-06-2019,By,customer92,Sales,218,,6610
+,,Item_36,24 Pcs,85.00/Pcs,2040,
+,,Item_6,140 Pcs,17.00/Pcs,2380,
+,,Item_4,60 Pcs,24.00/Pcs,1440,
+,,Item_4,25 Pcs,30.00/Pcs,750,
+13-06-2019,By,customer85,Sales,219,,40122
+,,Item_3,100 Pcs,27.00/Pcs,2700,
+,,Item_1,1428 Pcs,24.00/Pcs,34272,
+,,Item_6,200 Pcs,15.75/Pcs,3150,
+14-06-2019,By,customer85,Sales,220,,61368.9
+,,Item_18,64.00 MTR,48.00/MTR,3072,
+,,Item_4,20 Pcs,53.00/Pcs,1060,
+,,Item_4,40 Pcs,38.00/Pcs,1520,
+,,Item_4,30 Pcs,28.00/Pcs,840,
+,,Item_34,50.00 MTR,64.00/MTR,3200,
+,,Item_16,35.00 MTR,84.00/MTR,2940,
+,,Item_18,10.00 MTR,80.00/MTR,800,
+,,Item_18,39.50 MTR,70.00/MTR,2765,
+,,Item_18,12.00 MTR,100.00/MTR,1200,
+,,Item_18,72.00 MTR,50.00/MTR,3600,
+,,Item_6,450 Pcs,15.75/Pcs,7087.5,
+,,Item_4,80 Pcs,20.50/Pcs,1640,
+,,Item_33,24.60 MTR,29.00/MTR,713.4,
+,,Item_7,980.50 MTR,22.00/MTR,21571,
+,,Item_29,144.00 MTR,45.00/MTR,6480,
+,,Item_36,36 Pcs,80.00/Pcs,2880,
+15-06-2019,By,customer16,Sales,221,,3124
+,,Item_7,142.00 MTR,22.00/MTR,3124,
+15-06-2019,By,customer93,Sales,222,,20887
+,,Item_36,120 Pcs,85.00/Pcs,10200,
+,,Item_18,84.00 MTR,68.00/MTR,5712,
+,,Item_4,75 Pcs,45.00/Pcs,3375,
+,,Item_4,10 Pcs,35.00/Pcs,350,
+,,Item_4,10 Pcs,60.00/Pcs,600,
+,,Item_4,10 Pcs,65.00/Pcs,650,
+15-06-2019,By,customer2,Sales,223,,6070
+,,Item_4,20 Pcs,35.00/Pcs,700,
+,,Item_4,10 Pcs,10.00/Pcs,100,
+,,Item_4,60 Pcs,30.00/Pcs,1800,
+,,Item_4,20 Pcs,45.00/Pcs,900,
+,,Item_6,90 Pcs,17.00/Pcs,1530,
+,,Item_5,20 Pcs,42.00/Pcs,840,
+,,Item_29,5.00 MTR,40.00/MTR,200,
+15-06-2019,By,customer69,Sales,224,,23300
+,,Item_1,200 Pcs,18.50/Pcs,3700,
+,,Item_9,100 Pcs,11.50/Pcs,1150,
+,,Item_10,50 Pcs,13.00/Pcs,650,
+,,Item_7,890.00 MTR,20.00/MTR,17800,
+15-06-2019,By,customer46,Sales,225,,9600
+,,Item_36,120 Pcs,80.00/Pcs,9600,
+16-06-2019,By,customer8,Sales,226,,48801
+,,Item_29,192.00 MTR,36.00/MTR,6912,
+,,Item_4,160 Pcs,23.25/Pcs,3720,
+,,Item_48,120 Pcs,38.00/Pcs,4560,
+,,Item_27,298.00 MTR,48.00/MTR,14304,
+,,Item_7,716.50 MTR,21.00/MTR,15046.5,
+,,Item_4,20 Pcs,51.00/Pcs,1020,
+,,Item_16,12.00 MTR,80.00/MTR,960,
+,,Item_18,36.75 MTR,62.00/MTR,2278.5,
+16-06-2019,By,customer2,Sales,227,,3400
+,,Item_6,200 Pcs,17.00/Pcs,3400,
+17-06-2019,By,customer2,Sales,228,,8809
+,,Item_7,400.00 MTR,22.00/MTR,8800,
+,,Item_4,1 Pcs,9.00/Pcs,9,
+17-06-2019,By,customer94,Sales,229,,9085
+,,Item_27,44.00 MTR,50.00/MTR,2200,
+,,Item_31,60 Pcs,25.00/Pcs,1500,
+,,Item_4,25 Pcs,25.00/Pcs,625,
+,,Item_4,10 Pcs,40.00/Pcs,400,
+,,Item_52,42 Pcs,80.00/Pcs,3360,
+,,Item_27,20.00 MTR,50.00/MTR,1000,
+17-06-2019,By,customer2,Sales,230,,8480
+,,Item_7,403.00 MTR,21.00/MTR,8463,
+,,Item_4,1 Pcs,17.00/Pcs,17,
+18-06-2019,By,customer95,Sales,231,,18360
+,,Item_52,216 Pcs,85.00/Pcs,18360,
+18-06-2019,By,customer63,Sales,232,,3840
+,,Item_27,40.00 MTR,48.00/MTR,1920,
+,,Item_2,80 Pcs,24.00/Pcs,1920,
+18-06-2019,By,customer96,Sales,234,,51902
+,,Item_7,1294.00 MTR,22.00/MTR,28468,
+,,Item_29,72.00 MTR,42.00/MTR,3024,
+,,Item_27,98.00 MTR,50.00/MTR,4900,
+,,Item_2,360 Pcs,24.00/Pcs,8640,
+,,Item_2,120 Pcs,22.00/Pcs,2640,
+,,Item_16,24.00 MTR,95.00/MTR,2280,
+,,Item_34,30.00 MTR,65.00/MTR,1950,
+18-06-2019,By,customer2,Sales,235,,5870
+,,Item_6,250 Pcs,17.00/Pcs,4250,
+,,Item_3,10 Pcs,45.00/Pcs,450,
+,,Item_37,15 Pcs,38.00/Pcs,570,
+,,Item_5,15 Pcs,40.00/Pcs,600,
+18-06-2019,By,customer50,Sales,236,,23484
+,,Item_7,1118.00 MTR,21.00/MTR,23478,
+,,Item_4,1 Pcs,6.00/Pcs,6,
+19-06-2019,By,customer2,Sales,237,,5100
+,,Item_6,300 Pcs,17.00/Pcs,5100,
+19-06-2019,By,customer45,Sales,238,,3900
+,,Item_33,130.00 MTR,30.00/MTR,3900,
+19-06-2019,By,customer37,Sales,239,,20760
+,,Item_36,120 Pcs,85.00/Pcs,10200,
+,,Item_2,120 Pcs,22.00/Pcs,2640,
+,,Item_4,120 Pcs,32.00/Pcs,3840,
+,,Item_6,240 Pcs,17.00/Pcs,4080,
+19-06-2019,By,customer97,Sales,240,,59857.5
+,,Item_5,200 Pcs,42.00/Pcs,8400,
+,,Item_31,120 Pcs,26.00/Pcs,3120,
+,,Item_2,440 Pcs,24.00/Pcs,10560,
+,,Item_1,540 Pcs,20.00/Pcs,10800,
+,,Item_19,75 Pcs,7.50/Pcs,562.5,
+,,Item_4,20 Pcs,40.00/Pcs,800,
+,,Item_4,12 Pcs,35.00/Pcs,420,
+,,Item_4,10 Pcs,30.00/Pcs,300,
+,,Item_4,10 Pcs,50.00/Pcs,500,
+,,Item_4,10 Pcs,60.00/Pcs,600,
+,,Item_27,196.00 MTR,52.00/MTR,10192,
+,,Item_48,20 Pcs,42.00/Pcs,840,
+,,Item_29,108.00 MTR,48.00/MTR,5184,
+,,Item_7,344.50 MTR,22.00/MTR,7579,
+19-06-2019,By,customer2,Sales,241,,3910
+,,Item_6,230 Pcs,17.00/Pcs,3910,
+19-06-2019,By,customer98,Sales,242,,54585.5
+,,Item_7,2598.00 MTR,21.00/MTR,54558,
+,,Item_4,1 Pcs,27.50/Pcs,27.5,
+20-06-2019,By,customer99,Sales,243,,28557
+,,Item_12,260 Pcs,32.00/Pcs,8320,
+,,Item_5,327 Pcs,42.00/Pcs,13734,
+,,Item_1,160 Pcs,20.00/Pcs,3200,
+,,Item_6,10 Pcs,17.00/Pcs,170,
+,,Item_30,11 Pcs,28.00/Pcs,308,
+,,Item_3,20 Pcs,35.00/Pcs,700,
+,,Item_3,10 Pcs,40.00/Pcs,400,
+,,Item_3,10 Pcs,45.00/Pcs,450,
+,,Item_52,15 Pcs,85.00/Pcs,1275,
+20-06-2019,By,customer85,Sales,244,,27360
+,,Item_5,720 Pcs,38.00/Pcs,27360,
+22-06-2019,By,customer98,Sales,245,,18325
+,,Item_36,25 Pcs,95.00/Pcs,2375,
+,,Item_52,96 Pcs,85.00/Pcs,8160,
+,,Item_37,50 Pcs,40.00/Pcs,2000,
+,,Item_10,75 Pcs,14.00/Pcs,1050,
+,,Item_9,75 Pcs,12.00/Pcs,900,
+,,Item_2,120 Pcs,22.00/Pcs,2640,
+,,Item_4,25 Pcs,48.00/Pcs,1200,
+23-06-2019,By,customer73,Sales,246,,3237.5
+,,Item_9,125 Pcs,11.50/Pcs,1437.5,
+,,Item_4,60 Pcs,30.00/Pcs,1800,
+23-06-2019,By,customer6,Sales,247,,3510
+,,Item_1,180 Pcs,19.50/Pcs,3510,
+23-06-2019,By,customer42,Sales,248,,33304
+,,Item_7,1665.20 MTR,20.00/MTR,33304,
+24-06-2019,By,customer68,Sales,249,,53380
+,,Item_27,50.00 MTR,52.00/MTR,2600,
+,,Item_29,36.00 MTR,48.00/MTR,1728,
+,,Item_7,1442.00 MTR,22.00/MTR,31724,
+,,Item_2,120 Pcs,24.00/Pcs,2880,
+,,Item_34,48.00 MTR,65.00/MTR,3120,
+,,Item_47,39.80 MTR,60.00/MTR,2388,
+,,Item_16,12.00 MTR,95.00/MTR,1140,
+,,Item_18,24.00 MTR,75.00/MTR,1800,
+,,Item_33,26.00 MTR,30.00/MTR,780,
+,,Item_36,24 Pcs,85.00/Pcs,2040,
+,,Item_39,12.00 MTR,115.00/MTR,1380,
+,,Item_41,20.00 MTR,90.00/MTR,1800,
+25-06-2019,By,customer61,Sales,250,,41739.5
+,,Item_7,1897.25 MTR,22.00/MTR,41739.5,
+26-06-2019,By,customer10,Sales,251,,29314.4
+,,Item_4,180 Pcs,22.00/Pcs,3960,
+,,Item_4,86 Pcs,28.00/Pcs,2408,
+,,Item_4,20 Pcs,33.00/Pcs,660,
+,,Item_4,130 Pcs,38.00/Pcs,4940,
+,,Item_4,20 Pcs,43.00/Pcs,860,
+,,Item_4,52 Pcs,53.00/Pcs,2756,
+,,Item_15,12.00 MTR,75.00/MTR,900,
+,,Item_18,36.00 MTR,63.00/MTR,2268,
+,,Item_18,56.70 MTR,32.00/MTR,1814.4,
+,,Item_16,60.00 MTR,85.00/MTR,5100,
+,,Item_18,48.00 MTR,76.00/MTR,3648,
+28-06-2019,By,customer8,Sales,252,,864
+,,Item_29,24.00 MTR,36.00/MTR,864,
+28-06-2019,By,customer73,Sales,253,,3000
+,,Item_4,120 Pcs,25.00/Pcs,3000,
+29-06-2019,By,customer44,Sales,254,,10115
+,,Item_6,210 Pcs,16.50/Pcs,3465,
+,,Item_1,350 Pcs,19.00/Pcs,6650,
+29-06-2019,By,customer2,Sales,255,,390
+,,Item_1,20 Pcs,19.50/Pcs,390,
+30-06-2019,By,customer55,Sales,256,,280
+,,Item_4,7 Pcs,40.00/Pcs,280,
+02-07-2019,By,customer30,Sales,257,,5427.5
+,,Item_4,50 Pcs,32.00/Pcs,1600,
+,,Item_4,60 Pcs,24.00/Pcs,1440,
+,,Item_1,110 Pcs,20.00/Pcs,2200,
+,,Item_19,25 Pcs,7.50/Pcs,187.5,
+02-07-2019,By,customer4,Sales,258,,5680
+,,Item_7,240.00 MTR,22.00/MTR,5280,
+,,Item_1,20 Pcs,20.00/Pcs,400,
+05-07-2019,By,customer29,Sales,259,,10017.5
+,,Item_6,606 Pcs,16.50/Pcs,9999,
+,,Item_4,1 Pcs,18.50/Pcs,18.5,
+05-07-2019,By,customer2,Sales,260,,9350
+,,Item_6,550 Pcs,17.00/Pcs,9350,
+05-07-2019,By,customer67,Sales,261,,14280
+,,Item_6,840 Pcs,17.00/Pcs,14280,
+05-07-2019,By,customer49,Sales,262,,9225
+,,Item_44,369 Pcs,25.00/Pcs,9225,
+05-07-2019,By,customer100,Sales,263,,30880
+,,Item_27,380.00 MTR,50.00/MTR,19000,
+,,Item_29,132.00 MTR,45.00/MTR,5940,
+,,Item_16,12.00 MTR,95.00/MTR,1140,
+,,Item_4,100 Pcs,48.00/Pcs,4800,
+06-07-2019,By,customer46,Sales,264,,12900
+,,Item_6,500 Pcs,17.00/Pcs,8500,
+,,Item_2,200 Pcs,22.00/Pcs,4400,
+06-07-2019,By,customer45,Sales,265,,2520
+,,Item_36,24 Pcs,85.00/Pcs,2040,
+,,Item_4,10 Pcs,48.00/Pcs,480,
+07-07-2019,By,customer8,Sales,266,,41906.25
+,,Item_6,390 Pcs,16.50/Pcs,6435,
+,,Item_18,32.00 MTR,55.00/MTR,1760,
+,,Item_27,234.00 MTR,48.00/MTR,11232,
+,,Item_29,336.00 MTR,36.00/MTR,12096,
+,,Item_7,506.50 MTR,20.50/MTR,10383.25,
+07-07-2019,By,customer23,Sales,267,,6120
+,,Item_28,72 Pcs,85.00/Pcs,6120,
+08-07-2019,By,customer85,Sales,268,,14614
+,,Item_3,510 Pcs,21.00/Pcs,10710,
+,,Item_6,200 Pcs,15.75/Pcs,3150,
+,,Item_33,26.00 MTR,29.00/MTR,754,
+11-07-2019,By,customer82,Sales,269,,5927
+,,Item_6,348 Pcs,17.00/Pcs,5916,
+,,Item_4,1 Pcs,11.00/Pcs,11,
+11-07-2019,By,customer17,Sales,270,,52981
+,,Item_34,70.00 MTR,64.00/MTR,4480,
+,,Item_34,90.00 MTR,64.00/MTR,5760,
+,,Item_1,400 Pcs,19.50/Pcs,7800,
+,,Item_7,1480.50 MTR,22.00/MTR,32571,
+,,Item_3,90 Pcs,23.00/Pcs,2070,
+,,Item_3,10 Pcs,30.00/Pcs,300,
+12-07-2019,By,customer36,Sales,271,,26871
+,,Item_1,320 Pcs,19.50/Pcs,6240,
+,,Item_2,500 Pcs,23.50/Pcs,11750,
+,,Item_2,40 Pcs,21.00/Pcs,840,
+,,Item_34,19.00 MTR,63.00/MTR,1197,
+,,Item_16,12.00 MTR,85.00/MTR,1020,
+,,Item_18,48.00 MTR,63.00/MTR,3024,
+,,Item_2,100 Pcs,28.00/Pcs,2800,
+12-07-2019,By,customer51,Sales,272,,16975
+,,Item_1,600 Pcs,19.50/Pcs,11700,
+,,Item_6,150 Pcs,16.00/Pcs,2400,
+,,Item_9,250 Pcs,11.50/Pcs,2875,
+12-07-2019,By,customer53,Sales,273,,6730
+,,Item_2,120 Pcs,24.00/Pcs,2880,
+,,Item_3,80 Pcs,25.00/Pcs,2000,
+,,Item_3,10 Pcs,30.00/Pcs,300,
+,,Item_3,10 Pcs,35.00/Pcs,350,
+,,Item_3,30 Pcs,40.00/Pcs,1200,
+12-07-2019,By,customer77,Sales,275,,2500
+,,Item_3,100 Pcs,25.00/Pcs,2500,
+12-07-2019,By,customer6,Sales,276,,2340
+,,Item_1,120 Pcs,19.50/Pcs,2340,
+12-07-2019,By,customer101,Sales,277,,17190
+,,Item_53,300 Pcs,25.00/Pcs,7500,
+,,Item_2,240 Pcs,23.50/Pcs,5640,
+,,Item_10,300 Pcs,13.50/Pcs,4050,
+13-07-2019,By,customer6,Sales,278,,1800
+,,Item_2,60 Pcs,30.00/Pcs,1800,
+13-07-2019,By,customer90,Sales,279,,2905
+,,Item_6,170 Pcs,17.00/Pcs,2890,
+,,Item_4,1 Pcs,15.00/Pcs,15,
+13-07-2019,By,customer13,Sales,280,,8880
+,,Item_6,520 Pcs,17.00/Pcs,8840,
+,,Item_3,1 Pcs,40.00/Pcs,40,
+14-07-2019,By,customer15,Sales,281,,36860
+,,Item_7,1674.00 MTR,22.00/MTR,36828,
+,,Item_12,1 Pcs,32.00/Pcs,32,
+14-07-2019,By,customer21,Sales,282,,50177
+,,Item_7,2389.00 MTR,21.00/MTR,50169,
+,,Item_4,1 Pcs,8.00/Pcs,8,
+15-07-2019,By,customer96,Sales,283,,64235
+,,Item_7,3058.00 MTR,21.00/MTR,64218,
+,,Item_4,1 Pcs,17.00/Pcs,17,
+15-07-2019,By,customer46,Sales,284,,8000
+,,Item_5,200 Pcs,40.00/Pcs,8000,
+16-07-2019,By,customer5,Sales,285,,75000
+,,Item_2,1200 Pcs,23.50/Pcs,28200,
+,,Item_1,2400 Pcs,19.50/Pcs,46800,
+17-07-2019,By,customer65,Sales,286,,3690
+,,Item_7,175.00 MTR,21.00/MTR,3675,
+,,Item_4,1 Pcs,15.00/Pcs,15,
+17-07-2019,By,customer53,Sales,287,,9380
+,,Item_7,426.00 MTR,22.00/MTR,9372,
+,,Item_19,1 Pcs,8.00/Pcs,8,
+19-07-2019,By,customer4,Sales,288,,36774
+,,Item_7,250.00 MTR,22.00/MTR,5500,
+,,Item_1,360 Pcs,20.00/Pcs,7200,
+,,Item_6,40 Pcs,17.00/Pcs,680,
+,,Item_27,354.00 MTR,49.00/MTR,17346,
+,,Item_29,144.00 MTR,42.00/MTR,6048,
+19-07-2019,By,customer2,Sales,289,,5229
+,,Item_7,249.00 MTR,21.00/MTR,5229,
+21-07-2019,By,customer69,Sales,290,,31313.5
+,,Item_7,490.50 MTR,20.00/MTR,9810,
+,,Item_1,300 Pcs,18.50/Pcs,5550,
+,,Item_2,220 Pcs,23.00/Pcs,5060,
+,,Item_10,50 Pcs,13.00/Pcs,650,
+,,Item_9,50 Pcs,11.50/Pcs,575,
+,,Item_50,85.50 MTR,75.00/MTR,6412.5,
+,,Item_24,68.00 MTR,32.00/MTR,2176,
+,,Item_54,12.00 MTR,90.00/MTR,1080,
+21-07-2019,By,customer2,Sales,291,,770
+,,Item_7,38.50 MTR,20.00/MTR,770,
+22-07-2019,By,customer38,Sales,292,,31680
+,,Item_29,840.00 MTR,36.00/MTR,30240,
+,,Item_37,50 Pcs,28.80/Pcs,1440,
+23-07-2019,By,customer102,Sales,293,,8700
+,,Item_27,140.00 MTR,50.00/MTR,7000,
+,,Item_2,20 Pcs,22.00/Pcs,440,
+,,Item_9,50 Pcs,12.00/Pcs,600,
+,,Item_47,12.00 MTR,55.00/MTR,660,
+25-07-2019,By,customer8,Sales,294,,27666
+,,Item_27,376.00 MTR,48.00/MTR,18048,
+,,Item_8,44.00 MTR,38.00/MTR,1672,
+,,Item_29,216.00 MTR,36.00/MTR,7776,
+,,Item_19,25 Pcs,6.80/Pcs,170,
+25-07-2019,By,customer38,Sales,295,,2835
+,,Item_4,105 Pcs,27.00/Pcs,2835,
+25-07-2019,By,customer39,Sales,296,,2320
+,,Item_1,116 Pcs,20.00/Pcs,2320,
+25-07-2019,By,customer25,Sales,297,,10700
+,,Item_6,668 Pcs,16.00/Pcs,10688,
+,,Item_4,1 Pcs,12.00/Pcs,12,
+25-07-2019,By,customer2,Sales,298,,3322
+,,Item_7,151.00 MTR,22.00/MTR,3322,
+26-07-2019,By,customer2,Sales,299,,8430
+,,Item_6,526 Pcs,16.00/Pcs,8416,
+,,Item_4,1 Pcs,14.00/Pcs,14,
+27-07-2019,By,customer2,Sales,300,,410
+,,Item_7,20.00 MTR,20.50/MTR,410,
+28-07-2019,By,customer2,Sales,301,,320
+,,Item_6,20 Pcs,16.00/Pcs,320,
+30-07-2019,By,customer85,Sales,302,,20495.4
+,,Item_3,78 Pcs,27.00/Pcs,2106,
+,,Item_24,51.00 MTR,32.00/MTR,1632,
+,,Item_21,120 Pcs,26.00/Pcs,3120,
+,,Item_3,75 Pcs,40.00/Pcs,3000,
+,,Item_47,75.80 MTR,48.00/MTR,3638.4,
+,,Item_55,94.30 MTR,50.00/MTR,4715,
+,,Item_24,32.00 MTR,32.00/MTR,1024,
+,,Item_39,18.00 MTR,70.00/MTR,1260,
+07-08-2019,By,customer91,Sales,303,,40000
+,,Item_7,2000.00 MTR,20.00/MTR,40000,
+07-08-2019,By,customer103,Sales,304,,79061
+,,Item_2,1400 Pcs,24.00/Pcs,33600,
+,,Item_6,1550 Pcs,16.50/Pcs,25575,
+,,Item_29,180.00 MTR,45.00/MTR,8100,
+,,Item_18,160.00 MTR,50.00/MTR,8000,
+,,Item_7,120.00 MTR,22.00/MTR,2640,
+,,Item_18,12.00 MTR,68.00/MTR,816,
+,,Item_3,15 Pcs,22.00/Pcs,330,
+07-08-2019,By,customer28,Sales,305,,24425
+,,Item_1,330 Pcs,19.00/Pcs,6270,
+,,Item_10,300 Pcs,13.00/Pcs,3900,
+,,Item_31,60 Pcs,24.00/Pcs,1440,
+,,Item_53,100 Pcs,25.00/Pcs,2500,
+,,Item_4,200 Pcs,32.00/Pcs,6400,
+,,Item_19,150 Pcs,6.90/Pcs,1035,
+,,Item_4,60 Pcs,48.00/Pcs,2880,
+08-08-2019,By,customer91,Sales,306,,38270.4
+,,Item_7,344.00 MTR,20.00/MTR,6880,
+,,Item_18,91.80 MTR,48.00/MTR,4406.4,
+,,Item_29,168.00 MTR,38.00/MTR,6384,
+,,Item_29,36.00 MTR,38.00/MTR,1368,
+,,Item_18,28.00 MTR,48.00/MTR,1344,
+,,Item_3,32 Pcs,32.00/Pcs,1024,
+,,Item_3,18 Pcs,48.00/Pcs,864,
+,,Item_7,800.00 MTR,20.00/MTR,16000,
+12-08-2019,By,customer68,Sales,307,,60839
+,,Item_7,2896.00 MTR,21.00/MTR,60816,
+,,Item_4,1 Pcs,23.00/Pcs,23,
+15-08-2019,By,customer2,Sales,308,,3088
+,,Item_6,193 Pcs,16.00/Pcs,3088,
+15-08-2019,By,customer38,Sales,309,,47252
+,,Item_56,172.50 MTR,15.00/MTR,2587.5,
+,,Item_3,20 Pcs,100.00/Pcs,2000,
+,,Item_3,140 Pcs,20.00/Pcs,2800,
+,,Item_3,130 Pcs,15.00/Pcs,1950,
+,,Item_19,75 Pcs,7.00/Pcs,525,
+,,Item_3,40 Pcs,7.00/Pcs,280,
+,,Item_3,10 Pcs,30.00/Pcs,300,
+,,Item_3,20 Pcs,35.00/Pcs,700,
+,,Item_3,20 Pcs,40.00/Pcs,800,
+,,Item_3,10 Pcs,55.00/Pcs,550,
+,,Item_18,265.00 MTR,10.00/MTR,2650,
+,,Item_29,852.00 MTR,36.00/MTR,30672,
+,,Item_9,125 Pcs,11.50/Pcs,1437.5,
+16-08-2019,By,customer87,Sales,310,,15696
+,,Item_34,60.00 MTR,65.00/MTR,3900,
+,,Item_8,140.00 MTR,40.00/MTR,5600,
+,,Item_27,20.00 MTR,49.00/MTR,980,
+,,Item_29,48.00 MTR,42.00/MTR,2016,
+,,Item_3,20 Pcs,100.00/Pcs,2000,
+,,Item_3,60 Pcs,20.00/Pcs,1200,
+17-08-2019,By,customer4,Sales,311,,27960
+,,Item_21,800 Pcs,30.00/Pcs,24000,
+,,Item_1,120 Pcs,20.00/Pcs,2400,
+,,Item_57,24.00 MTR,65.00/MTR,1560,
+17-08-2019,By,customer31,Sales,312,,32340
+,,Item_21,840 Pcs,30.00/Pcs,25200,
+,,Item_6,220 Pcs,16.50/Pcs,3630,
+,,Item_1,180 Pcs,19.50/Pcs,3510,
+24-08-2019,By,customer104,Sales,315,,14580
+,,Item_21,540 Pcs,27.00/Pcs,14580,
+02-09-2019,By,customer95,Sales,316,,36055
+,,Item_18,251.75 MTR,100.00/MTR,25175,
+,,Item_18,140.00 MTR,52.00/MTR,7280,
+,,Item_3,120 Pcs,30.00/Pcs,3600,
+02-09-2019,By,customer77,Sales,317,,12050
+,,Item_6,340 Pcs,17.00/Pcs,5780,
+,,Item_3,12 Pcs,60.00/Pcs,720,
+,,Item_3,30 Pcs,20.00/Pcs,600,
+,,Item_3,10 Pcs,75.00/Pcs,750,
+,,Item_3,100 Pcs,42.00/Pcs,4200,
+02-09-2019,By,customer2,Sales,318,,5000
+,,Item_3,100 Pcs,50.00/Pcs,5000,
+13-09-2019,By,customer86,Sales,319,,13744
+,,Item_5,262 Pcs,42.00/Pcs,11004,
+,,Item_4,25 Pcs,48.00/Pcs,1200,
+,,Item_4,30 Pcs,28.00/Pcs,840,
+,,Item_3,15 Pcs,20.00/Pcs,300,
+,,Item_29,8.00 MTR,50.00/MTR,400,
+17-09-2019,By,customer1,Sales,320,,440
+,,Item_7,20.00 MTR,22.00/MTR,440,
+24-09-2019,By,customer68,Sales,321,,20875
+,,Item_18,12.00 MTR,100.00/MTR,1200,
+,,Item_18,24.00 MTR,100.00/MTR,2400,
+,,Item_18,12.00 MTR,100.00/MTR,1200,
+,,Item_18,24.00 MTR,80.00/MTR,1920,
+,,Item_18,12.00 MTR,80.00/MTR,960,
+,,Item_18,72.00 MTR,70.00/MTR,5040,
+,,Item_18,24.00 MTR,90.00/MTR,2160,
+,,Item_18,24.00 MTR,60.00/MTR,1440,
+,,Item_18,24.00 MTR,50.00/MTR,1200,
+,,Item_1,40 Pcs,20.00/Pcs,800,
+,,Item_2,20 Pcs,24.00/Pcs,480,
+,,Item_3,40 Pcs,20.00/Pcs,800,
+,,Item_3,15 Pcs,40.00/Pcs,600,
+,,Item_3,15 Pcs,45.00/Pcs,675,
+24-09-2019,By,customer68,Sales,322,,38414
+,,Item_27,260.00 MTR,52.00/MTR,13520,
+,,Item_29,168.00 MTR,48.00/MTR,8064,
+,,Item_7,765.00 MTR,22.00/MTR,16830,
+24-09-2019,By,customer2,Sales,323,,8500
+,,Item_6,500 Pcs,17.00/Pcs,8500,
+28-09-2019,By,customer4,Sales,324,,51736
+,,Item_27,1077.00 MTR,48.00/MTR,51696,
+,,Item_4,1 Pcs,40.00/Pcs,40,
+28-09-2019,By,customer4,Sales,325,,2744
+,,Item_4,100 Pcs,27.44/Pcs,2744,
+28-09-2019,By,customer49,Sales,326,,35087
+,,Item_7,1754.35 MTR,20.00/MTR,35087,
+01-10-2019,By,customer44,Sales,327,,40924
+,,Item_1,160 Pcs,19.00/Pcs,3040,
+,,Item_8,984.00 MTR,38.50/MTR,37884,
+08-10-2019,By,customer52,Sales,328,,12940
+,,Item_15,200.00 MTR,64.70/MTR,12940,
+12-10-2019,By,customer64,Sales,329,,10093.15
+,,Item_6,599 Pcs,16.85/Pcs,10093.15,
+17-10-2019,By,customer90,Sales,330,,11410
+,,Item_1,600 Pcs,19.00/Pcs,11400,
+,,Item_4,1 Pcs,10.00/Pcs,10,
+17-10-2019,By,customer87,Sales,331,,34050
+,,Item_3,660 Pcs,38.00/Pcs,25080,
+,,Item_7,60.00 MTR,20.00/MTR,1200,
+,,Item_18,12.00 MTR,60.00/MTR,720,
+,,Item_18,72.00 MTR,50.00/MTR,3600,
+,,Item_14,12.00 MTR,55.00/MTR,660,
+,,Item_2,120 Pcs,23.25/Pcs,2790,
+17-10-2019,By,customer69,Sales,332,,22610
+,,Item_29,60.00 MTR,33.00/MTR,1980,
+,,Item_3,90 Pcs,19.50/Pcs,1755,
+,,Item_3,10 Pcs,40.00/Pcs,400,
+,,Item_18,228.00 MTR,57.00/MTR,12996,
+,,Item_18,60.00 MTR,50.00/MTR,3000,
+,,Item_18,26.00 MTR,59.00/MTR,1534,
+,,Item_6,60 Pcs,15.75/Pcs,945,
+18-10-2019,By,customer20,Sales,333,,82781
+,,Item_27,1799.00 MTR,46.00/MTR,82754,
+,,Item_4,1 Pcs,27.00/Pcs,27,
+18-10-2019,By,customer74,Sales,334,,2210
+,,Item_3,45 Pcs,20.00/Pcs,900,
+,,Item_3,10 Pcs,80.00/Pcs,800,
+,,Item_3,30 Pcs,17.00/Pcs,510,
+18-10-2019,By,customer87,Sales,335,,49000
+,,Item_27,1000.00 MTR,49.00/MTR,49000,
+19-10-2019,By,customer87,Sales,336,,49000
+,,Item_27,1000.00 MTR,49.00/MTR,49000,
+19-10-2019,By,customer51,Sales,337,,5280
+,,Item_27,110.00 MTR,48.00/MTR,5280,
+19-10-2019,By,customer69,Sales,338,,14493
+,,Item_27,289.00 MTR,50.00/MTR,14450,
+,,Item_4,2 Pcs,21.50/Pcs,43,
+20-10-2019,By,customer5,Sales,339,,86400
+,,Item_27,1800.00 MTR,48.00/MTR,86400,
+20-10-2019,By,customer18,Sales,340,,5700
+,,Item_3,300 Pcs,19.00/Pcs,5700,
+20-10-2019,By,customer85,Sales,341,,46230
+,,Item_6,2400 Pcs,15.75/Pcs,37800,
+,,Item_3,300 Pcs,18.50/Pcs,5550,
+,,Item_27,60.00 MTR,48.00/MTR,2880,
+21-10-2019,By,customer27,Sales,342,,53725
+,,Item_6,3581 Pcs,15.00/Pcs,53715,
+,,Item_4,1 Pcs,10.00/Pcs,10,
+22-10-2019,By,customer27,Sales,343,,51661
+,,Item_3,1200 Pcs,43.00/Pcs,51600,
+,,Item_4,4 Pcs,15.25/Pcs,61,
+22-10-2019,By,customer87,Sales,344,,2325
+,,Item_2,100 Pcs,23.25/Pcs,2325,
+22-10-2019,By,customer105,Sales,345,,33505.5
+,,Item_14,670.00 MTR,50.00/MTR,33500,
+,,Item_4,1 Pcs,5.50/Pcs,5.5,
+22-10-2019,By,customer105,Sales,346,,11750
+,,Item_10,1000 Pcs,11.75/Pcs,11750,
+23-10-2019,By,customer52,Sales,347,,1680
+,,Item_7,80.00 MTR,21.00/MTR,1680,
+25-10-2019,By,customer4,Sales,348,,13995
+,,Item_1,130 Pcs,20.00/Pcs,2600,
+,,Item_6,405 Pcs,17.00/Pcs,6885,
+,,Item_7,205.00 MTR,22.00/MTR,4510,
+26-10-2019,By,customer106,Sales,349,,46444
+,,Item_7,476.20 MTR,20.00/MTR,9524,
+,,Item_7,1738.00 MTR,20.00/MTR,34760,
+,,Item_18,36.00 MTR,60.00/MTR,2160,
+27-10-2019,By,customer18,Sales,350,,1458
+,,Item_33,48.60 MTR,30.00/MTR,1458,
+28-10-2019,By,customer68,Sales,351,,2400
+,,Item_2,100 Pcs,24.00/Pcs,2400,
+30-10-2019,By,customer68,Sales,352,,38993
+,,Item_7,2052.00 MTR,19.00/MTR,38988,
+,,Item_3,1 Pcs,5.00/Pcs,5,
+01-11-2019,By,customer107,Sales,353,,20112.5
+,,Item_18,123.75 MTR,70.00/MTR,8662.5,
+,,Item_16,29.25 MTR,90.00/MTR,2632.5,
+,,Item_18,48.00 MTR,70.00/MTR,3360,
+,,Item_55,46.00 MTR,50.00/MTR,2300,
+,,Item_16,25.75 MTR,90.00/MTR,2317.5,
+,,Item_18,12.00 MTR,70.00/MTR,840,
+01-11-2019,By,customer108,Sales,354,,7200
+,,Item_1,360 Pcs,20.00/Pcs,7200,
+01-11-2019,By,customer85,Sales,355,,79200
+,,Item_27,1650.00 MTR,48.00/MTR,79200,
+02-11-2019,By,customer85,Sales,356,,68670.5
+,,Item_27,816.00 MTR,48.00/MTR,39168,
+,,Item_5,200 Pcs,38.00/Pcs,7600,
+,,Item_29,456.00 MTR,45.00/MTR,20520,
+,,Item_20,175 Pcs,7.90/Pcs,1382.5,
+08-11-2019,By,customer103,Sales,357,,57000
+,,Item_27,1140.00 MTR,50.00/MTR,57000,
+08-11-2019,By,customer109,Sales,358,,13104
+,,Item_6,832 Pcs,15.75/Pcs,13104,
+08-11-2019,By,customer2,Sales,359,,315
+,,Item_6,20 Pcs,15.75/Pcs,315,
+13-11-2019,By,customer44,Sales,360,,3010
+,,Item_7,60.00 MTR,21.00/MTR,1260,
+,,Item_6,50 Pcs,16.00/Pcs,800,
+,,Item_1,50 Pcs,19.00/Pcs,950,
+13-11-2019,By,customer108,Sales,361,,7400
+,,Item_1,200 Pcs,20.00/Pcs,4000,
+,,Item_6,200 Pcs,17.00/Pcs,3400,
+13-11-2019,By,customer4,Sales,362,,490
+,,Item_27,10.00 MTR,49.00/MTR,490,
+13-11-2019,By,customer21,Sales,363,,53253.5
+,,Item_6,3435 Pcs,15.50/Pcs,53242.5,
+,,Item_3,1 Pcs,11.00/Pcs,11,
+14-11-2019,By,customer95,Sales,364,,27856
+,,Item_7,1392.80 MTR,20.00/MTR,27856,
+15-11-2019,By,customer97,Sales,365,,62549.5
+,,Item_3,3380 Pcs,18.50/Pcs,62530,
+,,Item_3,1 Pcs,19.50/Pcs,19.5,
+15-11-2019,By,customer2,Sales,366,,3535
+,,Item_1,140 Pcs,20.00/Pcs,2800,
+,,Item_2,10 Pcs,22.00/Pcs,220,
+,,Item_6,10 Pcs,17.00/Pcs,170,
+,,Item_3,5 Pcs,29.00/Pcs,145,
+,,Item_1,10 Pcs,20.00/Pcs,200,
+15-11-2019,By,customer2,Sales,367,,3990
+,,Item_7,210.00 MTR,19.00/MTR,3990,
+15-11-2019,By,customer103,Sales,368,,86067.5
+,,Item_29,300.00 MTR,45.00/MTR,13500,
+,,Item_27,96.00 MTR,50.00/MTR,4800,
+,,Item_18,439.00 MTR,70.00/MTR,30730,
+,,Item_2,500 Pcs,24.00/Pcs,12000,
+,,Item_6,220 Pcs,16.50/Pcs,3630,
+,,Item_16,12.00 MTR,95.00/MTR,1140,
+,,Item_18,228.50 MTR,75.00/MTR,17137.5,
+,,Item_15,16.00 MTR,55.00/MTR,880,
+,,Item_38,50 Pcs,45.00/Pcs,2250,
+15-11-2019,By,customer2,Sales,369,,165
+,,Item_6,10 Pcs,16.50/Pcs,165,
+16-11-2019,By,customer2,Sales,370,,4950
+,,Item_6,300 Pcs,16.50/Pcs,4950,
+17-11-2019,By,customer69,Sales,371,,48192.5
+,,Item_2,300 Pcs,23.00/Pcs,6900,
+,,Item_1,800 Pcs,18.50/Pcs,14800,
+,,Item_6,10 Pcs,15.75/Pcs,157.5,
+,,Item_7,220.00 MTR,20.00/MTR,4400,
+,,Item_7,1096.75 MTR,20.00/MTR,21935,
+17-11-2019,By,customer97,Sales,372,,11170
+,,Item_2,480 Pcs,21.50/Pcs,10320,
+,,Item_20,100 Pcs,8.50/Pcs,850,
+18-11-2019,By,customer54,Sales,373,,24379.5
+,,Item_27,230.00 MTR,50.00/MTR,11500,
+,,Item_18,36.00 MTR,85.00/MTR,3060,
+,,Item_43,12.25 MTR,60.00/MTR,735,
+,,Item_43,51.50 MTR,75.00/MTR,3862.5,
+,,Item_24,34.00 MTR,32.00/MTR,1088,
+,,Item_18,87.00 MTR,42.00/MTR,3654,
+,,Item_2,20 Pcs,24.00/Pcs,480,
+18-11-2019,By,customer98,Sales,374,,6515
+,,Item_27,50.00 MTR,52.00/MTR,2600,
+,,Item_9,50 Pcs,12.00/Pcs,600,
+,,Item_20,50 Pcs,8.50/Pcs,425,
+,,Item_6,170 Pcs,17.00/Pcs,2890,
+20-11-2019,By,customer12,Sales,375,,92568
+,,Item_2,1800 Pcs,22.00/Pcs,39600,
+,,Item_27,380.00 MTR,48.00/MTR,18240,
+,,Item_7,268.00 MTR,21.00/MTR,5628,
+,,Item_9,1600 Pcs,11.50/Pcs,18400,
+,,Item_19,500 Pcs,7.00/Pcs,3500,
+,,Item_20,500 Pcs,8.00/Pcs,4000,
+,,Item_12,100 Pcs,32.00/Pcs,3200,
+21-11-2019,By,customer38,Sales,376,,38880
+,,Item_29,1080.00 MTR,36.00/MTR,38880,
+23-11-2019,By,customer2,Sales,377,,170
+,,Item_6,10 Pcs,17.00/Pcs,170,
+23-11-2019,By,customer80,Sales,378,,31388.5
+,,Item_7,1426.75 MTR,22.00/MTR,31388.5,
+24-11-2019,By,customer20,Sales,379,,12352.5
+,,Item_6,796 Pcs,15.50/Pcs,12338,
+,,Item_3,1 Pcs,14.50/Pcs,14.5,
+24-11-2019,By,customer52,Sales,380,,15563.5
+,,Item_7,777.50 MTR,20.00/MTR,15550,
+,,Item_3,1 Pcs,13.50/Pcs,13.5,
+25-11-2019,By,customer107,Sales,381,,5040
+,,Item_18,24.00 MTR,70.00/MTR,1680,
+,,Item_18,48.00 MTR,70.00/MTR,3360,
+01-12-2019,By,customer68,Sales,382,,67587
+,,Item_27,1501.00 MTR,45.00/MTR,67545,
+,,Item_3,2 Pcs,21.00/Pcs,42,
+17-12-2019,By,customer2,Sales,383,,400
+,,Item_7,20.00 MTR,20.00/MTR,400,
+17-12-2019,By,customer63,Sales,384,,3460
+,,Item_7,173.00 MTR,20.00/MTR,3460,
+17-12-2019,By,customer106,Sales,385,,58985
+,,Item_7,2949.25 MTR,20.00/MTR,58985,
+20-12-2019,By,customer106,Sales,386,,64428
+,,Item_7,3221.40 MTR,20.00/MTR,64428,
+23-12-2019,By,customer8,Sales,387,,30450
+,,Item_27,560.00 MTR,48.00/MTR,26880,
+,,Item_3,20 Pcs,38.00/Pcs,760,
+,,Item_7,80.00 MTR,20.50/MTR,1640,
+,,Item_3,18 Pcs,65.00/Pcs,1170,
+23-12-2019,By,customer5,Sales,389,,11500
+,,Item_9,1000 Pcs,11.50/Pcs,11500,
+23-12-2019,By,customer20,Sales,390,,55640.08
+,,Item_7,2714.15 MTR,20.50/MTR,55640.08,
+29-12-2019,By,customer110,Sales,391,,63456
+,,Item_7,2440.00 MTR,22.00/MTR,53680,
+,,Item_27,188.00 MTR,52.00/MTR,9776,
+01-01-2020,By,customer2,Sales,392,,1295.2
+,,Item_6,80 Pcs,16.19/Pcs,1295.2,
+01-01-2020,By,customer2,Sales,393,,440
+,,Item_7,20.00 MTR,22.00/MTR,440,
+01-01-2020,By,customer87,Sales,394,,8400
+,,Item_7,420.00 MTR,20.00/MTR,8400,
+01-01-2020,By,customer67,Sales,395,,19500
+,,Item_6,700 Pcs,17.00/Pcs,11900,
+,,Item_27,50.00 MTR,42.00/MTR,2100,
+,,Item_2,60 Pcs,24.00/Pcs,1440,
+,,Item_4,60 Pcs,31.00/Pcs,1860,
+,,Item_4,20 Pcs,45.00/Pcs,900,
+,,Item_4,20 Pcs,35.00/Pcs,700,
+,,Item_4,30 Pcs,20.00/Pcs,600,
+03-01-2020,By,customer20,Sales,397,,3780
+,,Item_6,200 Pcs,16.50/Pcs,3300,
+,,Item_15,6.00 MTR,80.00/MTR,480,
+03-01-2020,By,customer111,Sales,398,,20094
+,,Item_27,212.00 MTR,52.00/MTR,11024,
+,,Item_6,160 Pcs,17.00/Pcs,2720,
+,,Item_2,60 Pcs,24.00/Pcs,1440,
+,,Item_7,200.00 MTR,22.00/MTR,4400,
+,,Item_28,6 Pcs,85.00/Pcs,510,
+06-01-2020,By,customer68,Sales,399,,83129.2
+,,Item_7,4156.46 MTR,20.00/MTR,83129.2,
+06-01-2020,By,customer5,Sales,400,,3008.25
+,,Item_7,143.25 MTR,21.00/MTR,3008.25,
+07-01-2020,By,customer87,Sales,401,,52795.5
+,,Item_14,60.00 MTR,58.00/MTR,3480,
+,,Item_16,100.00 MTR,80.00/MTR,8000,
+,,Item_15,180.75 MTR,74.00/MTR,13375.5,
+,,Item_41,148.00 MTR,77.00/MTR,11396,
+,,Item_41,242.50 MTR,64.00/MTR,15520,
+,,Item_24,32.00 MTR,32.00/MTR,1024,
+07-01-2020,By,customer2,Sales,402,,1619
+,,Item_6,100 Pcs,16.19/Pcs,1619,
+15-01-2020,By,customer46,Sales,403,,18000
+,,Item_27,360.00 MTR,50.00/MTR,18000,
+20-01-2020,By,customer12,Sales,404,,10393.95
+,,Item_33,364.70 MTR,28.50/MTR,10393.95,
+20-01-2020,By,customer98,Sales,405,,11730
+,,Item_28,138 Pcs,85.00/Pcs,11730,
+20-01-2020,By,customer98,Sales,406,,26297.76
+,,Item_27,547.87 MTR,48.00/MTR,26297.76,
+20-01-2020,By,customer112,Sales,407,,24999.84
+,,Item_27,520.83 MTR,48.00/MTR,24999.84,
+20-01-2020,By,customer54,Sales,408,,15000
+,,Item_27,300.00 MTR,50.00/MTR,15000,
+20-01-2020,By,customer58,Sales,409,,36928.5
+,,Item_27,700.00 MTR,48.00/MTR,33600,
+,,Item_7,158.50 MTR,21.00/MTR,3328.5,
+23-01-2020,By,customer51,Sales,410,,10500
+,,Item_4,525 Pcs,20.00/Pcs,10500,
+23-01-2020,By,customer69,Sales,411,,23195
+,,Item_7,970.75 MTR,20.00/MTR,19415,
+,,Item_18,54.00 MTR,70.00/MTR,3780,
+23-01-2020,By,customer69,Sales,412,,5472
+,,Item_27,114.00 MTR,48.00/MTR,5472,
+23-01-2020,By,customer113,Sales,413,,30452.5
+,,Item_27,320.00 MTR,48.00/MTR,15360,
+,,Item_2,140 Pcs,23.50/Pcs,3290,
+,,Item_18,12.00 MTR,65.00/MTR,780,
+,,Item_18,24.00 MTR,75.00/MTR,1800,
+,,Item_13,19.50 MTR,75.00/MTR,1462.5,
+,,Item_16,24.00 MTR,85.00/MTR,2040,
+,,Item_42,24.00 MTR,60.00/MTR,1440,
+,,Item_18,34.00 MTR,90.00/MTR,3060,
+,,Item_3,20 Pcs,40.00/Pcs,800,
+,,Item_18,12.00 MTR,35.00/MTR,420,
+27-01-2020,By,customer68,Sales,414,,45410.4
+,,Item_7,2270.52 MTR,20.00/MTR,45410.4,
+28-01-2020,By,customer53,Sales,415,,24500
+,,Item_28,108 Pcs,80.00/Pcs,8640,
+,,Item_1,360 Pcs,20.00/Pcs,7200,
+,,Item_58,100 Pcs,23.00/Pcs,2300,
+,,Item_48,100 Pcs,33.60/Pcs,3360,
+,,Item_4,150 Pcs,20.00/Pcs,3000,
+28-01-2020,By,customer12,Sales,416,,94638
+,,Item_58,1000 Pcs,23.00/Pcs,23000,
+,,Item_27,1462.00 MTR,49.00/MTR,71638,
+29-01-2020,By,customer2,Sales,417,,1619
+,,Item_6,100 Pcs,16.19/Pcs,1619,
+29-01-2020,By,customer2,Sales,418,,1000
+,,Item_1,50 Pcs,20.00/Pcs,1000,
+01-02-2020,By,customer98,Sales,419,,9095
+,,Item_6,616 Pcs,14.75/Pcs,9086,
+,,Item_4,1 Pcs,9.00/Pcs,9,
+03-02-2020,By,customer46,Sales,420,,39702.5
+,,Item_6,2691 Pcs,14.75/Pcs,39692.25,
+,,Item_4,1 Pcs,10.25/Pcs,10.25,
+03-02-2020,By,customer46,Sales,421,,8320
+,,Item_6,520 Pcs,16.00/Pcs,8320,
+05-02-2020,By,customer2,Sales,422,,2428.5
+,,Item_6,150 Pcs,16.19/Pcs,2428.5,
+05-02-2020,By,customer2,Sales,423,,242.85
+,,Item_6,15 Pcs,16.19/Pcs,242.85,
+05-02-2020,By,customer20,Sales,424,,16321.25
+,,Item_6,1036 Pcs,15.75/Pcs,16317,
+,,Item_4,1 Pcs,4.25/Pcs,4.25,
+05-02-2020,By,customer107,Sales,425,,44842.5
+,,Item_18,24.00 MTR,95.00/MTR,2280,
+,,Item_18,24.00 MTR,65.00/MTR,1560,
+,,Item_18,23.25 MTR,65.00/MTR,1511.25,
+,,Item_18,84.00 MTR,35.00/MTR,2940,
+,,Item_50,48.00 MTR,70.00/MTR,3360,
+,,Item_43,12.00 MTR,80.00/MTR,960,
+,,Item_43,20.00 MTR,85.00/MTR,1700,
+,,Item_13,41.75 MTR,70.00/MTR,2922.5,
+,,Item_39,60.00 MTR,75.00/MTR,4500,
+,,Item_18,56.50 MTR,95.00/MTR,5367.5,
+,,Item_13,149.25 MTR,65.00/MTR,9701.25,
+,,Item_59,96.00 MTR,65.00/MTR,6240,
+,,Item_60,80.00 MTR,22.50/MTR,1800,
+06-02-2020,By,customer2,Sales,426,,2000
+,,Item_7,100.00 MTR,20.00/MTR,2000,
+08-02-2020,By,customer23,Sales,427,,4960
+,,Item_21,160 Pcs,31.00/Pcs,4960,
+11-02-2020,By,customer114,Sales,428,,57860
+,,Item_6,3732 Pcs,15.50/Pcs,57846,
+,,Item_4,1 Pcs,14.00/Pcs,14,
+17-02-2020,By,customer2,Sales,429,,1290
+,,Item_7,60.00 MTR,21.50/MTR,1290,
+17-02-2020,By,customer87,Sales,430,,9800
+,,Item_27,200.00 MTR,49.00/MTR,9800,
+07-03-2020,By,customer51,Sales,431,,43200
+,,Item_4,2160 Pcs,20.00/Pcs,43200,
+07-03-2020,By,customer87,Sales,432,,54544
+,,Item_2,1200 Pcs,18.50/Pcs,22200,
+,,Item_3,90 Pcs,20.00/Pcs,1800,
+,,Item_3,30 Pcs,65.00/Pcs,1950,
+,,Item_3,42 Pcs,55.00/Pcs,2310,
+,,Item_3,12 Pcs,63.00/Pcs,756,
+,,Item_3,60 Pcs,40.00/Pcs,2400,
+,,Item_27,472.00 MTR,49.00/MTR,23128,
+12-03-2020,By,customer21,Sales,433,,26383
+,,Item_3,1388 Pcs,19.00/Pcs,26372,
+,,Item_4,1 Pcs,11.00/Pcs,11,
+18-03-2020,By,customer101,Sales,434,,12067.5
+,,Item_10,325 Pcs,13.50/Pcs,4387.5,
+,,Item_2,120 Pcs,24.00/Pcs,2880,
+,,Item_1,120 Pcs,20.00/Pcs,2400,
+,,Item_58,100 Pcs,24.00/Pcs,2400,
+18-03-2020,By,customer87,Sales,435,,14112
+,,Item_27,288.00 MTR,49.00/MTR,14112,
+18-03-2020,By,customer91,Sales,436,,17687.45
+,,Item_18,48.00 MTR,60.00/MTR,2880,
+,,Item_18,22.25 MTR,75.00/MTR,1668.75,
+,,Item_18,47.75 MTR,60.00/MTR,2865,
+,,Item_18,26.00 MTR,60.00/MTR,1560,
+,,Item_18,12.00 MTR,70.00/MTR,840,
+,,Item_24,23.15 MTR,32.00/MTR,740.8,
+,,Item_47,12.90 MTR,48.00/MTR,619.2,
+,,Item_18,38.70 MTR,51.00/MTR,1973.7,
+,,Item_3,10 Pcs,32.00/Pcs,320,
+,,Item_3,10 Pcs,47.00/Pcs,470,
+,,Item_3,20 Pcs,28.00/Pcs,560,
+,,Item_3,10 Pcs,90.00/Pcs,900,
+,,Item_3,10 Pcs,85.00/Pcs,850,
+,,Item_18,24.00 MTR,60.00/MTR,1440,
+27-06-2020,By,customer26,Sales,1,,11904
+,,Item_6,768 Pcs,15.50/Pcs,11904,
+27-06-2020,By,customer2,Sales,2,,1175
+,,Item_4,50 Pcs,7.50/Pcs,375,
+,,Item_36,10 Pcs,80.00/Pcs,800,
+01-07-2020,By,customer2,Sales,3,,995
+,,Item_7,49.75 MTR,20.00/MTR,995,
+08-07-2020,By,customer113,Sales,4,,19344
+,,Item_27,356.00 MTR,49.00/MTR,17444,
+,,Item_2,40 Pcs,23.50/Pcs,940,
+,,Item_18,16.00 MTR,60.00/MTR,960,
+08-07-2020,By,customer2,Sales,5,,10394
+,,Item_7,519.70 MTR,20.00/MTR,10394,
+10-07-2020,By,customer4,Sales,6,,6460
+,,Item_1,140 Pcs,20.00/Pcs,2800,
+,,Item_6,100 Pcs,17.00/Pcs,1700,
+,,Item_27,40.00 MTR,49.00/MTR,1960,
+11-07-2020,By,customer115,Sales,7,,5470
+,,Item_7,273.50 MTR,20.00/MTR,5470,
+27-07-2020,By,customer68,Sales,8,,7788
+,,Item_3,26 Pcs,30.00/Pcs,780,
+,,Item_3,16 Pcs,38.00/Pcs,608,
+,,Item_3,19 Pcs,68.00/Pcs,1292,
+,,Item_3,20 Pcs,52.00/Pcs,1040,
+,,Item_3,60 Pcs,21.00/Pcs,1260,
+,,Item_3,54 Pcs,52.00/Pcs,2808,
+27-08-2020,By,customer2,Sales,9,,160
+,,Item_6,10 Pcs,16.00/Pcs,160,
+28-08-2020,By,customer116,Sales,10,,22952
+,,Item_7,1208.00 MTR,19.00/MTR,22952,
+29-08-2020,By,customer2,Sales,11,,3648
+,,Item_7,192.00 MTR,19.00/MTR,3648,
+30-08-2020,By,customer20,Sales,12,,74092.97
+,,Item_7,3899.63 MTR,19.00/MTR,74092.97,
+31-08-2020,By,customer20,Sales,13,,77664.32
+,,Item_34,1339.04 MTR,58.00/MTR,77664.32,
+31-08-2020,By,customer2,Sales,14,,2642.22
+,,Item_7,146.79 MTR,18.00/MTR,2642.22,
+31-08-2020,By,customer20,Sales,15,,5499.9
+,,Item_46,366.66 MTR,15.00/MTR,5499.9,
+31-08-2020,By,customer2,Sales,16,,1650
+,,Item_6,110 Pcs,15.00/Pcs,1650,
+02-09-2020,By,customer2,Sales,17,,323.8
+,,Item_6,20 Pcs,16.19/Pcs,323.8,
+07-09-2020,By,customer2,Sales,18,,420
+,,Item_7,20.00 MTR,21.00/MTR,420,
+07-09-2020,By,customer68,Sales,19,,19687.42
+,,Item_7,1036.18 MTR,19.00/MTR,19687.42,
+09-09-2020,By,customer2,Sales,20,,760
+,,Item_5,20 Pcs,38.00/Pcs,760,
+09-09-2020,By,customer68,Sales,21,,33278.75
+,,Item_6,2218 Pcs,15.00/Pcs,33270,
+,,Item_4,1 Pcs,8.75/Pcs,8.75,
+09-09-2020,By,customer2,Sales,22,,520
+,,Item_34,10.00 MTR,52.00/MTR,520,
+10-09-2020,By,customer2,Sales,23,,400
+,,Item_6,25 Pcs,16.00/Pcs,400,
+10-09-2020,By,customer2,Sales,24,,378
+,,Item_7,18.00 MTR,21.00/MTR,378,
+10-09-2020,By,customer2,Sales,25,,665
+,,Item_7,35.00 MTR,19.00/MTR,665,
+12-09-2020,By,customer2,Sales,26,,609
+,,Item_7,29.00 MTR,21.00/MTR,609,
+12-09-2020,By,customer98,Sales,27,,60422.85
+,,Item_7,3180.15 MTR,19.00/MTR,60422.85,
+14-09-2020,By,customer98,Sales,28,,30565
+,,Item_6,2037 Pcs,15.00/Pcs,30555,
+,,Item_4,1 Pcs,10.00/Pcs,10,
+16-09-2020,By,customer2,Sales,29,,378
+,,Item_7,18.00 MTR,21.00/MTR,378,
+18-09-2020,By,customer2,Sales,30,,600
+,,Item_6,20 Pcs,15.00/Pcs,300,
+,,Item_2,15 Pcs,20.00/Pcs,300,
+18-09-2020,By,customer2,Sales,31,,380
+,,Item_2,19 Pcs,20.00/Pcs,380,
+18-09-2020,By,customer2,Sales,32,,432
+,,Item_7,24.00 MTR,18.00/MTR,432,
+18-09-2020,By,customer2,Sales,33,,450
+,,Item_6,30 Pcs,15.00/Pcs,450,
+20-09-2020,By,customer2,Sales,34,,480
+,,Item_6,32 Pcs,15.00/Pcs,480,
+20-09-2020,By,customer2,Sales,35,,630
+,,Item_5,15 Pcs,42.00/Pcs,630,
+21-09-2020,By,customer2,Sales,36,,750
+,,Item_6,50 Pcs,15.00/Pcs,750,
+22-09-2020,By,customer4,Sales,37,,13838
+,,Item_6,920 Pcs,15.00/Pcs,13800,
+,,Item_4,4 Pcs,9.50/Pcs,38,
+23-09-2020,By,customer2,Sales,38,,360
+,,Item_7,20.00 MTR,18.00/MTR,360,
+23-09-2020,By,customer2,Sales,39,,522
+,,Item_7,29.00 MTR,18.00/MTR,522,
+23-09-2020,By,customer2,Sales,40,,690
+,,Item_2,30 Pcs,23.00/Pcs,690,
+24-09-2020,By,customer2,Sales,41,,475
+,,Item_2,25 Pcs,19.00/Pcs,475,
+24-09-2020,By,customer2,Sales,42,,1470
+,,Item_27,30.00 MTR,49.00/MTR,1470,
+25-09-2020,By,customer66,Sales,43,,26169.08
+,,Item_60,1064.25 MTR,21.90/MTR,23307.08,
+,,Item_60,120.00 MTR,23.85/MTR,2862,
+26-09-2020,By,customer2,Sales,44,,400
+,,Item_7,20.00 MTR,20.00/MTR,400,
+26-09-2020,By,customer2,Sales,45,,600
+,,Item_6,40 Pcs,15.00/Pcs,600,
+27-09-2020,By,customer2,Sales,46,,375
+,,Item_6,25 Pcs,15.00/Pcs,375,
+27-09-2020,By,customer2,Sales,47,,380
+,,Item_48,10 Pcs,38.00/Pcs,380,
+27-09-2020,By,customer2,Sales,48,,900
+,,Item_61,20 Pcs,45.00/Pcs,900,
+27-09-2020,By,customer2,Sales,49,,400
+,,Item_3,20 Pcs,20.00/Pcs,400,
+30-09-2020,By,customer2,Sales,50,,625
+,,Item_3,25 Pcs,25.00/Pcs,625,
+01-10-2020,By,customer2,Sales,51,,300
+,,Item_6,20 Pcs,15.00/Pcs,300,
+02-10-2020,By,customer2,Sales,52,,400
+,,Item_1,20 Pcs,20.00/Pcs,400,
+02-10-2020,By,customer2,Sales,53,,500
+,,Item_7,25.00 MTR,20.00/MTR,500,
+03-10-2020,By,customer2,Sales,54,,400
+,,Item_5,10 Pcs,40.00/Pcs,400,
+03-10-2020,By,customer2,Sales,55,,190
+,,Item_2,10 Pcs,19.00/Pcs,190,
+04-10-2020,By,customer2,Sales,56,,600
+,,Item_34,10.00 MTR,60.00/MTR,600,
+06-10-2020,By,customer2,Sales,57,,150
+,,Item_6,10 Pcs,15.00/Pcs,150,
+10-10-2020,By,customer2,Sales,58,,625
+,,Item_44,25 Pcs,25.00/Pcs,625,
+12-10-2020,By,customer2,Sales,59,,350
+,,Item_62,10.00 MTR,35.00/MTR,350,
+12-10-2020,By,customer2,Sales,60,,225
+,,Item_6,15 Pcs,15.00/Pcs,225,
+12-10-2020,By,customer68,Sales,61,,63762.1
+,,Item_7,3355.90 MTR,19.00/MTR,63762.1,
+16-10-2020,By,customer116,Sales,62,,11543
+,,Item_27,238.00 MTR,48.50/MTR,11543,
+16-10-2020,By,customer2,Sales,63,,150
+,,Item_6,10 Pcs,15.00/Pcs,150,
+16-10-2020,By,customer2,Sales,64,,300
+,,Item_34,5.00 MTR,60.00/MTR,300,
+16-10-2020,By,customer2,Sales,65,,460
+,,Item_44,20 Pcs,23.00/Pcs,460,
+16-10-2020,By,customer117,Sales,66,,25535
+,,Item_18,190.00 MTR,85.00/MTR,16150,
+,,Item_18,155.70 MTR,50.00/MTR,7785,
+,,Item_7,80.00 MTR,20.00/MTR,1600,
+16-10-2020,By,customer118,Sales,67,,14484.6
+,,Item_14,321.88 MTR,45.00/MTR,14484.6,
+17-10-2020,By,customer2,Sales,68,,400
+,,Item_63,10.00 MTR,40.00/MTR,400,
+17-10-2020,By,customer2,Sales,69,,190
+,,Item_2,10 Pcs,19.00/Pcs,190,
+19-10-2020,By,customer2,Sales,70,,520
+,,Item_15,8.00 MTR,65.00/MTR,520,
+19-10-2020,By,customer119,Sales,71,,5880
+,,Item_18,84.00 MTR,70.00/MTR,5880,
+19-10-2020,By,customer2,Sales,72,,650
+,,Item_15,10.00 MTR,65.00/MTR,650,
+19-10-2020,By,customer112,Sales,73,,34304
+,,Item_16,428.80 MTR,80.00/MTR,34304,
+20-10-2020,By,customer4,Sales,75,,17399.88
+,,Item_7,966.66 MTR,18.00/MTR,17399.88,
+20-10-2020,By,customer2,Sales,76,,84
+,,Item_64,1.75 MTR,48.00/MTR,84,
+20-10-2020,By,customer2,Sales,77,,406
+,,Item_65,7.00 MTR,58.00/MTR,406,
+20-10-2020,By,customer2,Sales,78,,750
+,,Item_6,50 Pcs,15.00/Pcs,750,
+20-10-2020,By,customer2,Sales,79,,475
+,,Item_2,25 Pcs,19.00/Pcs,475,
+21-10-2020,By,customer2,Sales,80,,150
+,,Item_6,10 Pcs,15.00/Pcs,150,
+21-10-2020,By,customer2,Sales,81,,900
+,,Item_66,18.00 MTR,50.00/MTR,900,
+21-10-2020,By,customer2,Sales,82,,423.5
+,,Item_67,12.10 MTR,35.00/MTR,423.5,
+21-10-2020,By,customer2,Sales,83,,570
+,,Item_3,30 Pcs,19.00/Pcs,570,
+22-10-2020,By,customer2,Sales,84,,71.4
+,,Item_68,1.70 MTR,42.00/MTR,71.4,
+22-10-2020,By,customer2,Sales,85,,300
+,,Item_6,20 Pcs,15.00/Pcs,300,
+22-10-2020,By,customer2,Sales,86,,495
+,,Item_65,9.00 MTR,55.00/MTR,495,
+23-10-2020,By,customer2,Sales,87,,480
+,,Item_34,8.00 MTR,60.00/MTR,480,
+23-10-2020,By,customer2,Sales,88,,180
+,,Item_69,10 Pcs,18.00/Pcs,180,
+23-10-2020,By,customer2,Sales,89,,480
+,,Item_27,10.00 MTR,48.00/MTR,480,
+23-10-2020,By,customer2,Sales,90,,1100
+,,Item_9,100 Pcs,11.00/Pcs,1100,
+27-10-2020,By,customer2,Sales,91,,450
+,,Item_38,10 Pcs,45.00/Pcs,450,
+27-10-2020,By,customer2,Sales,92,,1100
+,,Item_44,50 Pcs,22.00/Pcs,1100,
+27-10-2020,By,customer2,Sales,93,,600
+,,Item_21,20 Pcs,30.00/Pcs,600,
+27-10-2020,By,customer2,Sales,94,,385
+,,Item_59,7.00 MTR,55.00/MTR,385,
+29-10-2020,By,customer2,Sales,95,,275
+,,Item_43,5.00 MTR,55.00/MTR,275,
+29-10-2020,By,customer2,Sales,96,,480
+,,Item_16,6.00 MTR,80.00/MTR,480,
+29-10-2020,By,customer2,Sales,97,,475
+,,Item_35,5.00 MTR,95.00/MTR,475,
+29-10-2020,By,customer2,Sales,98,,380
+,,Item_7,20.00 MTR,19.00/MTR,380,
+30-10-2020,By,customer2,Sales,99,,247.5
+,,Item_65,4.50 MTR,55.00/MTR,247.5,
+30-10-2020,By,customer2,Sales,100,,375
+,,Item_6,25 Pcs,15.00/Pcs,375,
+30-10-2020,By,customer2,Sales,101,,339
+,,Item_50,5.65 MTR,60.00/MTR,339,
+30-10-2020,By,customer2,Sales,102,,375
+,,Item_6,25 Pcs,15.00/Pcs,375,
+30-10-2020,By,customer20,Sales,103,,17900.6
+,,Item_34,303.40 MTR,59.00/MTR,17900.6,
+30-10-2020,By,customer2,Sales,104,,550
+,,Item_70,10.00 MTR,55.00/MTR,550,
+31-10-2020,By,customer2,Sales,105,,380
+,,Item_7,20.00 MTR,19.00/MTR,380,
+31-10-2020,By,customer2,Sales,106,,285
+,,Item_2,15 Pcs,19.00/Pcs,285,
+01-11-2020,By,customer120,Sales,107,,15787.8
+,,Item_11,451.08 MTR,35.00/MTR,15787.8,
+02-11-2020,By,customer2,Sales,108,,760
+,,Item_7,40.00 MTR,19.00/MTR,760,
+02-11-2020,By,customer2,Sales,109,,450
+,,Item_14,10.00 MTR,45.00/MTR,450,
+02-11-2020,By,customer2,Sales,110,,380
+,,Item_2,20 Pcs,19.00/Pcs,380,
+03-11-2020,By,customer2,Sales,111,,600
+,,Item_21,20 Pcs,30.00/Pcs,600,
+03-11-2020,By,customer2,Sales,112,,850
+,,Item_20,100 Pcs,8.50/Pcs,850,
+03-11-2020,By,customer68,Sales,113,,36855
+,,Item_3,1755 Pcs,21.00/Pcs,36855,
+03-11-2020,By,customer2,Sales,114,,315
+,,Item_3,15 Pcs,21.00/Pcs,315,
+03-11-2020,By,customer17,Sales,115,,11765
+,,Item_34,181.00 MTR,65.00/MTR,11765,
+05-11-2020,By,customer2,Sales,116,,210
+,,Item_3,10 Pcs,21.00/Pcs,210,
+05-11-2020,By,customer20,Sales,117,,56802
+,,Item_3,2700 Pcs,21.00/Pcs,56700,
+,,Item_3,4 Pcs,25.50/Pcs,102,
+05-11-2020,By,customer20,Sales,118,,11709.5
+,,Item_3,460 Pcs,25.00/Pcs,11500,
+,,Item_3,10 Pcs,20.95/Pcs,209.5,
+06-11-2020,By,customer20,Sales,119,,41167
+,,Item_3,1020 Pcs,40.00/Pcs,40800,
+,,Item_3,10 Pcs,36.70/Pcs,367,
+06-11-2020,By,customer2,Sales,120,,250
+,,Item_3,10 Pcs,25.00/Pcs,250,
+06-11-2020,By,customer2,Sales,121,,320
+,,Item_6,20 Pcs,16.00/Pcs,320,
+06-11-2020,By,customer68,Sales,122,,89418
+,,Item_3,4470 Pcs,20.00/Pcs,89400,
+,,Item_3,1 Pcs,18.00/Pcs,18,
+07-11-2020,By,customer68,Sales,123,,1617
+,,Item_33,53.90 MTR,30.00/MTR,1617,
+08-11-2020,By,customer17,Sales,124,,40950
+,,Item_34,630.00 MTR,65.00/MTR,40950,
+08-11-2020,By,customer91,Sales,125,,12315
+,,Item_18,167.00 MTR,60.00/MTR,10020,
+,,Item_18,45.90 MTR,50.00/MTR,2295,
+08-11-2020,By,customer2,Sales,126,,420
+,,Item_3,20 Pcs,21.00/Pcs,420,
+08-11-2020,By,customer2,Sales,127,,420
+,,Item_3,20 Pcs,21.00/Pcs,420,
+08-11-2020,By,customer2,Sales,128,,2100
+,,Item_18,100.00 MTR,21.00/MTR,2100,
+10-11-2020,By,customer2,Sales,129,,550
+,,Item_18,10.00 MTR,55.00/MTR,550,
+10-11-2020,By,customer2,Sales,130,,500
+,,Item_18,10.00 MTR,50.00/MTR,500,
+10-11-2020,By,customer48,Sales,131,,20930
+,,Item_34,322.00 MTR,65.00/MTR,20930,
+10-11-2020,By,customer121,Sales,132,,24112.4
+,,Item_3,1000 Pcs,24.00/Pcs,24000,
+,,Item_3,4 Pcs,28.10/Pcs,112.4,
+10-11-2020,By,customer68,Sales,133,,34367.5
+,,Item_3,1000 Pcs,34.00/Pcs,34000,
+,,Item_3,10 Pcs,36.75/Pcs,367.5,
+10-11-2020,By,customer98,Sales,134,,45926
+,,Item_3,2087 Pcs,22.00/Pcs,45914,
+,,Item_3,1 Pcs,12.00/Pcs,12,
+12-11-2020,By,customer98,Sales,135,,40042.5
+,,Item_3,2000 Pcs,20.00/Pcs,40000,
+,,Item_3,2 Pcs,21.25/Pcs,42.5,
+12-11-2020,By,customer2,Sales,136,,500
+,,Item_18,10.00 MTR,50.00/MTR,500,
+13-11-2020,By,customer98,Sales,137,,6120
+,,Item_18,72.00 MTR,85.00/MTR,6120,
+16-11-2020,By,customer2,Sales,138,,1500
+,,Item_6,100 Pcs,15.00/Pcs,1500,
+17-11-2020,By,customer66,Sales,139,,41340
+,,Item_3,2000 Pcs,20.67/Pcs,41340,
+18-11-2020,By,customer30,Sales,140,,2100
+,,Item_18,50.00 MTR,42.00/MTR,2100,
+18-11-2020,By,customer2,Sales,141,,4200
+,,Item_18,100.00 MTR,42.00/MTR,4200,
+18-11-2020,By,customer2,Sales,142,,2100
+,,Item_3,100 Pcs,21.00/Pcs,2100,
+18-11-2020,By,customer2,Sales,143,,2100
+,,Item_3,100 Pcs,21.00/Pcs,2100,
+22-11-2020,By,customer2,Sales,144,,520
+,,Item_18,10.00 MTR,52.00/MTR,520,
+22-11-2020,By,customer2,Sales,145,,700
+,,Item_71,2 Pcs,350.00/Pcs,700,
+22-11-2020,By,customer20,Sales,146,,40303.5
+,,Item_3,2000 Pcs,20.15/Pcs,40300,
+,,Item_3,1 Pcs,3.50/Pcs,3.5,
+23-11-2020,By,customer122,Sales,147,,24128
+,,Item_27,464.00 MTR,52.00/MTR,24128,
+23-11-2020,By,customer20,Sales,148,,6718.75
+,,Item_7,136.50 MTR,21.50/MTR,2934.75,
+,,Item_27,42.00 MTR,52.00/MTR,2184,
+,,Item_6,100 Pcs,16.00/Pcs,1600,
+24-11-2020,By,customer107,Sales,149,,16906.25
+,,Item_7,178.00 MTR,21.00/MTR,3738,
+,,Item_18,94.50 MTR,75.00/MTR,7087.5,
+,,Item_18,16.00 MTR,52.00/MTR,832,
+,,Item_18,80.75 MTR,65.00/MTR,5248.75,
+25-11-2020,By,customer123,Sales,150,,30546
+,,Item_10,1000 Pcs,12.85/Pcs,12850,
+,,Item_9,600 Pcs,11.90/Pcs,7140,
+,,Item_18,162.40 MTR,65.00/MTR,10556,
+29-11-2020,By,customer2,Sales,151,,1600
+,,Item_6,100 Pcs,16.00/Pcs,1600,
+29-11-2020,By,customer2,Sales,152,,420
+,,Item_7,20.00 MTR,21.00/MTR,420,
+01-12-2020,By,customer2,Sales,153,,440
+,,Item_7,20.00 MTR,22.00/MTR,440,
+01-12-2020,By,customer2,Sales,154,,440
+,,Item_7,20.00 MTR,22.00/MTR,440,
+02-12-2020,By,customer2,Sales,155,,500
+,,Item_27,10.00 MTR,50.00/MTR,500,
+02-12-2020,By,customer2,Sales,156,,500
+,,Item_27,10.00 MTR,50.00/MTR,500,
+03-12-2020,By,customer2,Sales,157,,800
+,,Item_6,50 Pcs,16.00/Pcs,800,
+04-12-2020,By,customer2,Sales,158,,800
+,,Item_6,50 Pcs,16.00/Pcs,800,
+04-12-2020,By,customer88,Sales,159,,2971.8
+,,Item_3,156 Pcs,19.05/Pcs,2971.8,
+04-12-2020,By,customer24,Sales,160,,9331.48
+,,Item_1,400 Pcs,20.00/Pcs,8000,
+,,Item_18,12.00 MTR,74.29/MTR,891.48,
+,,Item_7,20.00 MTR,22.00/MTR,440,
+04-12-2020,By,customer107,Sales,161,,6848.5
+,,Item_18,116.60 MTR,35.00/MTR,4081,
+,,Item_18,12.90 MTR,55.00/MTR,709.5,
+,,Item_7,98.00 MTR,21.00/MTR,2058,
+04-12-2020,By,customer106,Sales,162,,57152.5
+,,Item_27,1143.05 MTR,50.00/MTR,57152.5,
+04-12-2020,By,customer69,Sales,163,,9500
+,,Item_2,500 Pcs,19.00/Pcs,9500,
+05-12-2020,By,customer69,Sales,164,,9500
+,,Item_2,500 Pcs,19.00/Pcs,9500,
+05-12-2020,By,customer106,Sales,165,,57152.5
+,,Item_27,1143.05 MTR,50.00/MTR,57152.5,
+06-12-2020,By,customer69,Sales,166,,8967
+,,Item_2,200 Pcs,19.00/Pcs,3800,
+,,Item_18,36.00 MTR,33.00/MTR,1188,
+,,Item_18,20.00 MTR,40.00/MTR,800,
+,,Item_18,41.80 MTR,55.00/MTR,2299,
+,,Item_18,16.00 MTR,55.00/MTR,880,
+06-12-2020,By,customer106,Sales,167,,43969.4
+,,Item_7,2198.47 MTR,20.00/MTR,43969.4,
+07-12-2020,By,customer106,Sales,168,,72238
+,,Item_7,3611.90 MTR,20.00/MTR,72238,
+07-12-2020,By,customer2,Sales,169,,800
+,,Item_6,50 Pcs,16.00/Pcs,800,
+07-12-2020,By,customer67,Sales,170,,23181
+,,Item_10,50 Pcs,14.00/Pcs,700,
+,,Item_6,1300 Pcs,17.00/Pcs,22100,
+,,Item_3,20 Pcs,19.05/Pcs,381,
+07-12-2020,By,customer61,Sales,171,,39162
+,,Item_3,1957 Pcs,20.00/Pcs,39140,
+,,Item_3,1 Pcs,22.00/Pcs,22,
+09-12-2020,By,customer112,Sales,172,,33536.5
+,,Item_34,70.00 MTR,65.00/MTR,4550,
+,,Item_18,36.00 MTR,65.00/MTR,2340,
+,,Item_18,48.25 MTR,80.00/MTR,3860,
+,,Item_3,12 Pcs,55.00/Pcs,660,
+,,Item_3,683 Pcs,21.50/Pcs,14684.5,
+,,Item_3,120 Pcs,42.00/Pcs,5040,
+,,Item_18,28.40 MTR,55.00/MTR,1562,
+,,Item_18,12.00 MTR,70.00/MTR,840,
+10-12-2020,By,customer2,Sales,173,,850
+,,Item_20,100 Pcs,8.50/Pcs,850,
+10-12-2020,By,customer66,Sales,174,,2700.54
+,,Item_27,54.00 MTR,50.01/MTR,2700.54,
+10-12-2020,By,customer62,Sales,175,,1742.5
+,,Item_27,34.85 MTR,50.00/MTR,1742.5,
+10-12-2020,By,customer2,Sales,176,,1050
+,,Item_72,1 Pcs,1050.00/Pcs,1050,
+10-12-2020,By,customer2,Sales,177,,1250
+,,Item_73,1 Pcs,1250.00/Pcs,1250,
+10-12-2020,By,customer20,Sales,178,,63155.5
+,,Item_27,220.00 MTR,52.00/MTR,11440,
+,,Item_3,408 Pcs,22.50/Pcs,9180,
+,,Item_9,100 Pcs,12.00/Pcs,1200,
+,,Item_3,1197 Pcs,21.50/Pcs,25735.5,
+,,Item_3,800 Pcs,19.50/Pcs,15600,
+10-12-2020,By,customer20,Sales,179,,49002.5
+,,Item_3,2330 Pcs,21.00/Pcs,48930,
+,,Item_18,1.00 MTR,72.50/MTR,72.5,
+10-12-2020,By,customer66,Sales,180,,8465
+,,Item_3,400 Pcs,21.00/Pcs,8400,
+,,Item_3,2 Pcs,32.50/Pcs,65,
+10-12-2020,By,customer2,Sales,181,,1000
+,,Item_18,20.00 MTR,50.00/MTR,1000,
+10-12-2020,By,customer2,Sales,182,,900
+,,Item_33,30.00 MTR,30.00/MTR,900,
+10-12-2020,By,customer66,Sales,183,,23428
+,,Item_3,200 Pcs,20.00/Pcs,4000,
+,,Item_6,1200 Pcs,16.19/Pcs,19428,
+15-12-2020,By,customer68,Sales,184,,77839.2
+,,Item_74,518.00 DOZ,150.00/DOZ,77700,
+,,Item_18,2.00 MTR,69.60/MTR,139.2,
+15-12-2020,By,customer2,Sales,185,,900
+,,Item_33,30.00 MTR,30.00/MTR,900,
+16-12-2020,By,customer2,Sales,186,,800
+,,Item_6,50 Pcs,16.00/Pcs,800,
+18-12-2020,By,customer66,Sales,187,,4072
+,,Item_27,80.00 MTR,50.90/MTR,4072,
+20-12-2020,By,customer2,Sales,188,,450
+,,Item_74,3.00 DOZ,150.00/DOZ,450,
+21-12-2020,By,customer8,Sales,189,,47542
+,,Item_3,525 Pcs,21.00/Pcs,11025,
+,,Item_6,550 Pcs,16.00/Pcs,8800,
+,,Item_2,380 Pcs,23.25/Pcs,8835,
+,,Item_18,66.00 MTR,37.00/MTR,2442,
+,,Item_3,30 Pcs,80.00/Pcs,2400,
+,,Item_18,135.00 MTR,104.00/MTR,14040,
+21-12-2020,By,customer14,Sales,190,,8040
+,,Item_7,402.00 MTR,20.00/MTR,8040,
+22-12-2020,By,customer2,Sales,191,,300
+,,Item_6,20 Pcs,15.00/Pcs,300,
+22-12-2020,By,customer2,Sales,192,,750
+,,Item_6,50 Pcs,15.00/Pcs,750,
+23-12-2020,By,customer2,Sales,193,,900
+,,Item_33,30.00 MTR,30.00/MTR,900,
+23-12-2020,By,customer2,Sales,194,,300
+,,Item_6,20 Pcs,15.00/Pcs,300,
+23-12-2020,By,customer68,Sales,195,,19108
+,,Item_6,1270 Pcs,15.00/Pcs,19050,
+,,Item_3,2 Pcs,29.00/Pcs,58,
+23-12-2020,By,customer2,Sales,196,,300
+,,Item_6,20 Pcs,15.00/Pcs,300,
+23-12-2020,By,customer2,Sales,197,,300
+,,Item_74,2.00 DOZ,150.00/DOZ,300,
+24-12-2020,By,customer66,Sales,198,,9076.1
+,,Item_7,200.00 MTR,20.95/MTR,4190,
+,,Item_27,90.00 MTR,54.29/MTR,4886.1,
+25-12-2020,By,customer2,Sales,199,,390
+,,Item_3,20 Pcs,19.50/Pcs,390,
+26-12-2020,By,customer35,Sales,200,,7541.55
+,,Item_7,231.00 MTR,23.00/MTR,5313,
+,,Item_74,8.00 DOZ,148.57/DOZ,1188.56,
+,,Item_74,7.00 DOZ,148.57/DOZ,1039.99,
+27-12-2020,By,customer66,Sales,201,,5439
+,,Item_3,259 Pcs,21.00/Pcs,5439,
+27-12-2020,By,customer2,Sales,202,,416
+,,Item_3,20 Pcs,20.80/Pcs,416,
+28-12-2020,By,customer124,Sales,203,,1485.7
+,,Item_74,10.00 DOZ,148.57/DOZ,1485.7,
+28-12-2020,By,customer2,Sales,204,,315
+,,Item_3,15 Pcs,21.00/Pcs,315,
+28-12-2020,By,customer66,Sales,205,,35065
+,,Item_10,2400 Pcs,14.60/Pcs,35040,
+,,Item_3,1 Pcs,25.00/Pcs,25,
+29-12-2020,By,customer51,Sales,206,,51500
+,,Item_27,1000.00 MTR,51.50/MTR,51500,
+29-12-2020,By,customer45,Sales,207,,6637
+,,Item_3,60 Pcs,20.00/Pcs,1200,
+,,Item_6,120 Pcs,17.00/Pcs,2040,
+,,Item_33,24.40 MTR,30.00/MTR,732,
+,,Item_3,5 Pcs,45.00/Pcs,225,
+,,Item_3,25 Pcs,14.00/Pcs,350,
+,,Item_6,10 Pcs,17.00/Pcs,170,
+,,Item_3,60 Pcs,32.00/Pcs,1920,
+29-12-2020,By,customer125,Sales,208,,23100
+,,Item_19,300 Pcs,7.00/Pcs,2100,
+,,Item_20,300 Pcs,8.00/Pcs,2400,
+,,Item_9,600 Pcs,11.50/Pcs,6900,
+,,Item_9,600 Pcs,12.00/Pcs,7200,
+,,Item_18,100.00 MTR,45.00/MTR,4500,
+29-12-2020,By,customer95,Sales,209,,5546
+,,Item_18,100.00 MTR,55.00/MTR,5500,
+,,Item_3,1 Pcs,46.00/Pcs,46,
+30-12-2020,By,customer30,Sales,210,,2400
+,,Item_20,100 Pcs,9.00/Pcs,900,
+,,Item_3,60 Pcs,25.00/Pcs,1500,
+30-12-2020,By,customer41,Sales,211,,8480
+,,Item_3,424 Pcs,20.00/Pcs,8480,
+30-12-2020,By,customer39,Sales,212,,2200
+,,Item_3,100 Pcs,22.00/Pcs,2200,
+30-12-2020,By,customer2,Sales,213,,400
+,,Item_3,20 Pcs,20.00/Pcs,400,
+31-12-2020,By,customer126,Sales,214,,5175
+,,Item_3,225 Pcs,23.00/Pcs,5175,
+31-12-2020,By,customer2,Sales,215,,460
+,,Item_3,20 Pcs,23.00/Pcs,460,
+02-01-2021,By,customer127,Sales,216,,6765
+,,Item_7,338.25 MTR,20.00/MTR,6765,
+02-01-2021,By,customer128,Sales,217,,7734
+,,Item_2,180 Pcs,22.00/Pcs,3960,
+,,Item_6,222 Pcs,17.00/Pcs,3774,
+02-01-2021,By,customer38,Sales,218,,35904.88
+,,Item_3,780 Pcs,35.00/Pcs,27300,
+,,Item_7,419.75 MTR,20.50/MTR,8604.88,
+03-01-2021,By,customer14,Sales,219,,9162.7
+,,Item_6,320 Pcs,16.19/Pcs,5180.8,
+,,Item_2,50 Pcs,20.95/Pcs,1047.5,
+,,Item_7,140.00 MTR,20.96/MTR,2934.4,
+03-01-2021,By,customer15,Sales,220,,44400
+,,Item_3,120 Pcs,33.00/Pcs,3960,
+,,Item_3,200 Pcs,25.00/Pcs,5000,
+,,Item_1,240 Pcs,20.00/Pcs,4800,
+,,Item_6,320 Pcs,17.00/Pcs,5440,
+,,Item_3,240 Pcs,22.00/Pcs,5280,
+,,Item_3,300 Pcs,32.00/Pcs,9600,
+,,Item_3,24 Pcs,60.00/Pcs,1440,
+,,Item_3,24 Pcs,40.00/Pcs,960,
+,,Item_3,12 Pcs,35.00/Pcs,420,
+,,Item_3,300 Pcs,25.00/Pcs,7500,
+03-01-2021,By,customer15,Sales,221,,13820.2
+,,Item_18,199.30 MTR,52.00/MTR,10363.6,
+,,Item_18,82.30 MTR,42.00/MTR,3456.6,
+03-01-2021,By,customer2,Sales,222,,9000
+,,Item_3,450 Pcs,20.00/Pcs,9000,
+03-01-2021,By,customer21,Sales,223,,5160
+,,Item_1,180 Pcs,21.00/Pcs,3780,
+,,Item_3,20 Pcs,24.00/Pcs,480,
+,,Item_3,30 Pcs,23.00/Pcs,690,
+,,Item_1,10 Pcs,21.00/Pcs,210,
+03-01-2021,By,customer6,Sales,224,,5850
+,,Item_3,150 Pcs,23.00/Pcs,3450,
+,,Item_1,120 Pcs,20.00/Pcs,2400,
+03-01-2021,By,customer6,Sales,225,,3000
+,,Item_2,120 Pcs,25.00/Pcs,3000,
+03-01-2021,By,customer2,Sales,226,,2100
+,,Item_4,60 Pcs,35.00/Pcs,2100,
+04-01-2021,By,customer35,Sales,227,,3461.41
+,,Item_6,90 Pcs,17.00/Pcs,1530,
+,,Item_74,13.00 DOZ,148.57/DOZ,1931.41,
+04-01-2021,By,customer97,Sales,228,,83951.45
+,,Item_27,1526.39 MTR,55.00/MTR,83951.45,
+04-01-2021,By,customer36,Sales,229,,39755.75
+,,Item_2,600 Pcs,24.00/Pcs,14400,
+,,Item_18,81.25 MTR,65.00/MTR,5281.25,
+,,Item_18,16.00 MTR,80.00/MTR,1280,
+,,Item_18,36.00 MTR,80.00/MTR,2880,
+,,Item_18,91.00 MTR,65.00/MTR,5915,
+,,Item_18,18.00 MTR,80.00/MTR,1440,
+,,Item_18,62.90 MTR,55.00/MTR,3459.5,
+,,Item_18,16.00 MTR,45.00/MTR,720,
+,,Item_3,24 Pcs,45.00/Pcs,1080,
+,,Item_4,150 Pcs,22.00/Pcs,3300,
+04-01-2021,By,customer103,Sales,230,,6000
+,,Item_2,240 Pcs,25.00/Pcs,6000,
+04-01-2021,By,customer53,Sales,231,,46382
+,,Item_2,360 Pcs,22.00/Pcs,7920,
+,,Item_1,520 Pcs,21.00/Pcs,10920,
+,,Item_18,84.00 MTR,85.00/MTR,7140,
+,,Item_2,320 Pcs,25.00/Pcs,8000,
+,,Item_18,74.00 MTR,125.00/MTR,9250,
+,,Item_18,48.50 MTR,32.00/MTR,1552,
+,,Item_19,100 Pcs,7.50/Pcs,750,
+,,Item_20,100 Pcs,8.50/Pcs,850,
+05-01-2021,By,customer129,Sales,232,,10955
+,,Item_3,100 Pcs,25.00/Pcs,2500,
+,,Item_3,70 Pcs,57.00/Pcs,3990,
+,,Item_3,12 Pcs,45.00/Pcs,540,
+,,Item_3,80 Pcs,23.00/Pcs,1840,
+,,Item_3,25 Pcs,45.00/Pcs,1125,
+,,Item_3,24 Pcs,40.00/Pcs,960,
+05-01-2021,By,customer104,Sales,233,,19800
+,,Item_6,1200 Pcs,16.50/Pcs,19800,
+05-01-2021,By,customer130,Sales,234,,20634.2
+,,Item_33,51.40 MTR,28.00/MTR,1439.2,
+,,Item_4,20 Pcs,22.00/Pcs,440,
+,,Item_18,52.00 MTR,70.00/MTR,3640,
+,,Item_18,64.00 MTR,90.00/MTR,5760,
+,,Item_18,24.00 MTR,65.00/MTR,1560,
+,,Item_18,24.00 MTR,100.00/MTR,2400,
+,,Item_3,25 Pcs,40.00/Pcs,1000,
+,,Item_3,12 Pcs,75.00/Pcs,900,
+,,Item_3,25 Pcs,50.00/Pcs,1250,
+,,Item_3,20 Pcs,55.00/Pcs,1100,
+,,Item_3,20 Pcs,40.00/Pcs,800,
+,,Item_3,15 Pcs,23.00/Pcs,345,
+05-01-2021,By,customer2,Sales,235,,3804
+,,Item_6,170 Pcs,17.00/Pcs,2890,
+,,Item_33,24.80 MTR,30.00/MTR,744,
+,,Item_6,10 Pcs,17.00/Pcs,170,
+05-01-2021,By,customer98,Sales,236,,22254.75
+,,Item_33,25.20 MTR,30.00/MTR,756,
+,,Item_27,20.00 MTR,57.00/MTR,1140,
+,,Item_9,25 Pcs,13.00/Pcs,325,
+,,Item_18,29.75 MTR,85.00/MTR,2528.75,
+,,Item_6,30 Pcs,17.00/Pcs,510,
+,,Item_2,45 Pcs,25.00/Pcs,1125,
+,,Item_18,78.00 MTR,125.00/MTR,9750,
+,,Item_18,72.00 MTR,85.00/MTR,6120,
+06-01-2021,By,customer131,Sales,237,,73632.4
+,,Item_18,177.80 MTR,48.00/MTR,8534.4,
+,,Item_18,25.75 MTR,100.00/MTR,2575,
+,,Item_2,910 Pcs,21.00/Pcs,19110,
+,,Item_27,20.00 MTR,57.00/MTR,1140,
+,,Item_3,30 Pcs,50.00/Pcs,1500,
+,,Item_3,12 Pcs,40.00/Pcs,480,
+,,Item_7,1831.50 MTR,22.00/MTR,40293,
+06-01-2021,By,customer2,Sales,238,,2000
+,,Item_3,100 Pcs,20.00/Pcs,2000,
+06-01-2021,By,customer20,Sales,239,,65784
+,,Item_1,320 Pcs,20.50/Pcs,6560,
+,,Item_6,1200 Pcs,17.00/Pcs,20400,
+,,Item_11,32.00 MTR,42.00/MTR,1344,
+,,Item_27,20.00 MTR,55.00/MTR,1100,
+,,Item_18,279.50 MTR,90.00/MTR,25155,
+,,Item_18,62.00 MTR,75.00/MTR,4650,
+,,Item_3,36 Pcs,70.00/Pcs,2520,
+,,Item_18,16.00 MTR,85.00/MTR,1360,
+,,Item_3,30 Pcs,23.00/Pcs,690,
+,,Item_3,10 Pcs,50.00/Pcs,500,
+,,Item_3,10 Pcs,40.00/Pcs,400,
+,,Item_9,85 Pcs,13.00/Pcs,1105,
+07-01-2021,By,customer20,Sales,240,,39930
+,,Item_27,118.00 MTR,55.00/MTR,6490,
+,,Item_3,520 Pcs,22.00/Pcs,11440,
+,,Item_2,1000 Pcs,22.00/Pcs,22000,
+07-01-2021,By,customer20,Sales,241,,7428.5
+,,Item_74,50.00 DOZ,148.57/DOZ,7428.5,
+07-01-2021,By,customer66,Sales,242,,19337.2
+,,Item_6,1160 Pcs,16.67/Pcs,19337.2,
+07-01-2021,By,customer18,Sales,243,,25900
+,,Item_7,260.00 MTR,22.00/MTR,5720,
+,,Item_27,140.00 MTR,52.00/MTR,7280,
+,,Item_2,180 Pcs,25.00/Pcs,4500,
+,,Item_1,400 Pcs,21.00/Pcs,8400,
+08-01-2021,By,customer36,Sales,244,,2980
+,,Item_27,40.00 MTR,52.00/MTR,2080,
+,,Item_3,30 Pcs,30.00/Pcs,900,
+08-01-2021,By,customer38,Sales,245,,32502.75
+,,Item_3,1500 Pcs,20.50/Pcs,30750,
+,,Item_7,85.50 MTR,20.50/MTR,1752.75,
+08-01-2021,By,customer3,Sales,246,,27600
+,,Item_3,1200 Pcs,23.00/Pcs,27600,
+09-01-2021,By,customer69,Sales,247,,20416.4
+,,Item_74,120.00 DOZ,148.57/DOZ,17828.4,
+,,Item_29,60.00 MTR,33.00/MTR,1980,
+,,Item_18,16.00 MTR,38.00/MTR,608,
+09-01-2021,By,customer2,Sales,248,,300
+,,Item_3,15 Pcs,20.00/Pcs,300,
+09-01-2021,By,customer58,Sales,249,,17694
+,,Item_18,35.50 MTR,90.00/MTR,3195,
+,,Item_18,33.00 MTR,70.00/MTR,2310,
+,,Item_18,11.00 MTR,70.00/MTR,770,
+,,Item_27,20.00 MTR,55.00/MTR,1100,
+,,Item_18,11.00 MTR,55.00/MTR,605,
+,,Item_18,12.00 MTR,65.00/MTR,780,
+,,Item_18,53.80 MTR,55.00/MTR,2959,
+,,Item_3,105 Pcs,23.00/Pcs,2415,
+,,Item_3,50 Pcs,40.00/Pcs,2000,
+,,Item_3,24 Pcs,40.00/Pcs,960,
+,,Item_3,12 Pcs,50.00/Pcs,600,
+09-01-2021,By,customer40,Sales,250,,31363.5
+,,Item_18,118.50 MTR,70.00/MTR,8295,
+,,Item_18,45.00 MTR,70.00/MTR,3150,
+,,Item_18,67.75 MTR,90.00/MTR,6097.5,
+,,Item_18,12.90 MTR,55.00/MTR,709.5,
+,,Item_2,130 Pcs,20.00/Pcs,2600,
+,,Item_3,165 Pcs,23.00/Pcs,3795,
+,,Item_3,12 Pcs,50.00/Pcs,600,
+,,Item_3,12 Pcs,45.00/Pcs,540,
+,,Item_3,12 Pcs,40.00/Pcs,480,
+,,Item_3,55 Pcs,56.30/Pcs,3096.5,
+,,Item_3,50 Pcs,40.00/Pcs,2000,
+11-01-2021,By,customer112,Sales,251,,14255.5
+,,Item_3,712 Pcs,20.00/Pcs,14240,
+,,Item_3,1 Pcs,15.50/Pcs,15.5,
+11-01-2021,By,customer35,Sales,252,,12062
+,,Item_3,354 Pcs,23.00/Pcs,8142,
+,,Item_27,60.00 MTR,57.00/MTR,3420,
+,,Item_2,20 Pcs,25.00/Pcs,500,
+11-01-2021,By,customer2,Sales,253,,460
+,,Item_3,20 Pcs,23.00/Pcs,460,
+11-01-2021,By,customer2,Sales,254,,690
+,,Item_3,30 Pcs,23.00/Pcs,690,
+12-01-2021,By,customer132,Sales,255,,19173
+,,Item_3,958 Pcs,20.00/Pcs,19160,
+,,Item_3,1 Pcs,13.00/Pcs,13,
+12-01-2021,By,customer36,Sales,256,,17280
+,,Item_1,720 Pcs,20.00/Pcs,14400,
+,,Item_3,24 Pcs,45.00/Pcs,1080,
+,,Item_3,24 Pcs,40.00/Pcs,960,
+,,Item_29,24.00 MTR,35.00/MTR,840,
+12-01-2021,By,customer61,Sales,257,,26127
+,,Item_3,654 Pcs,23.00/Pcs,15042,
+,,Item_27,30.00 MTR,57.00/MTR,1710,
+,,Item_3,375 Pcs,25.00/Pcs,9375,
+12-01-2021,By,customer2,Sales,258,,250
+,,Item_3,10 Pcs,25.00/Pcs,250,
+12-01-2021,By,customer39,Sales,259,,12925
+,,Item_3,645 Pcs,20.00/Pcs,12900,
+,,Item_3,1 Pcs,25.00/Pcs,25,
+12-01-2021,By,customer133,Sales,260,,83225
+,,Item_27,59.00 MTR,55.00/MTR,3245,
+,,Item_18,204.00 MTR,70.00/MTR,14280,
+,,Item_6,1200 Pcs,16.50/Pcs,19800,
+,,Item_2,1200 Pcs,21.00/Pcs,25200,
+,,Item_3,900 Pcs,23.00/Pcs,20700,
+13-01-2021,By,customer133,Sales,261,,14400
+,,Item_9,1200 Pcs,12.00/Pcs,14400,
+13-01-2021,By,customer12,Sales,262,,52560
+,,Item_9,2400 Pcs,12.00/Pcs,28800,
+,,Item_6,1440 Pcs,16.50/Pcs,23760,
+13-01-2021,By,customer2,Sales,263,,2300
+,,Item_3,100 Pcs,23.00/Pcs,2300,
+13-01-2021,By,customer65,Sales,264,,8610
+,,Item_1,220 Pcs,21.00/Pcs,4620,
+,,Item_21,90 Pcs,33.00/Pcs,2970,
+,,Item_3,85 Pcs,12.00/Pcs,1020,
+13-01-2021,By,customer6,Sales,265,,17020
+,,Item_3,60 Pcs,32.00/Pcs,1920,
+,,Item_1,20 Pcs,20.00/Pcs,400,
+,,Item_2,600 Pcs,24.50/Pcs,14700,
+13-01-2021,By,customer42,Sales,266,,23938
+,,Item_3,1196 Pcs,20.00/Pcs,23920,
+,,Item_3,1 Pcs,18.00/Pcs,18,
+13-01-2021,By,customer2,Sales,267,,180
+,,Item_3,10 Pcs,18.00/Pcs,180,
+14-01-2021,By,customer2,Sales,268,,200
+,,Item_3,10 Pcs,20.00/Pcs,200,
+14-01-2021,By,customer8,Sales,269,,33054
+,,Item_3,36 Pcs,60.00/Pcs,2160,
+,,Item_3,12 Pcs,65.00/Pcs,780,
+,,Item_3,12 Pcs,60.00/Pcs,720,
+,,Item_3,12 Pcs,65.00/Pcs,780,
+,,Item_3,6 Pcs,80.00/Pcs,480,
+,,Item_3,360 Pcs,33.00/Pcs,11880,
+,,Item_7,756.00 MTR,21.50/MTR,16254,
+14-01-2021,By,customer2,Sales,270,,8000
+,,Item_3,400 Pcs,20.00/Pcs,8000,
+15-01-2021,By,customer1,Sales,271,,9080
+,,Item_3,454 Pcs,20.00/Pcs,9080,
+15-01-2021,By,customer131,Sales,272,,13964
+,,Item_3,695 Pcs,20.00/Pcs,13900,
+,,Item_3,2 Pcs,32.00/Pcs,64,
+15-01-2021,By,customer127,Sales,273,,19122.08
+,,Item_60,897.75 MTR,21.30/MTR,19122.08,
+16-01-2021,By,customer3,Sales,274,,3585
+,,Item_3,100 Pcs,35.85/Pcs,3585,
+16-01-2021,By,customer134,Sales,275,,3760
+,,Item_3,188 Pcs,20.00/Pcs,3760,
+16-01-2021,By,customer17,Sales,276,,67641.5
+,,Item_7,2589.00 MTR,22.00/MTR,56958,
+,,Item_24,68.50 MTR,35.00/MTR,2397.5,
+,,Item_38,15 Pcs,60.00/Pcs,900,
+,,Item_60,72.00 MTR,23.00/MTR,1656,
+,,Item_18,24.90 MTR,30.00/MTR,747,
+,,Item_7,226.50 MTR,22.00/MTR,4983,
+16-01-2021,By,customer103,Sales,277,,93943.75
+,,Item_6,2125 Pcs,17.00/Pcs,36125,
+,,Item_2,2000 Pcs,25.00/Pcs,50000,
+,,Item_75,92.25 MTR,75.00/MTR,6918.75,
+,,Item_75,12.00 MTR,75.00/MTR,900,
+16-01-2021,By,customer103,Sales,278,,78968
+,,Item_75,121.75 MTR,95.00/MTR,11566.25,
+,,Item_3,59 Pcs,90.00/Pcs,5310,
+,,Item_3,80 Pcs,65.00/Pcs,5200,
+,,Item_3,12 Pcs,70.00/Pcs,840,
+,,Item_75,61.25 MTR,70.00/MTR,4287.5,
+,,Item_3,18 Pcs,48.00/Pcs,864,
+,,Item_75,64.50 MTR,35.00/MTR,2257.5,
+,,Item_3,36 Pcs,55.00/Pcs,1980,
+,,Item_3,10 Pcs,40.00/Pcs,400,
+,,Item_3,12 Pcs,35.00/Pcs,420,
+,,Item_3,12 Pcs,45.00/Pcs,540,
+,,Item_3,12 Pcs,50.00/Pcs,600,
+,,Item_3,20 Pcs,50.00/Pcs,1000,
+,,Item_75,193.00 MTR,50.00/MTR,9650,
+,,Item_75,13.00 MTR,60.00/MTR,780,
+,,Item_7,789.25 MTR,23.00/MTR,18152.75,
+,,Item_75,336.00 MTR,45.00/MTR,15120,
+16-01-2021,By,customer3,Sales,279,,410
+,,Item_1,20 Pcs,20.50/Pcs,410,
+18-01-2021,By,customer68,Sales,280,,47250
+,,Item_3,1890 Pcs,25.00/Pcs,47250,
+19-01-2021,By,customer69,Sales,281,,39543.4
+,,Item_74,150.00 DOZ,154.29/DOZ,23143.5,
+,,Item_6,300 Pcs,20.00/Pcs,6000,
+,,Item_74,70.00 DOZ,148.57/DOZ,10399.9,
+19-01-2021,By,customer38,Sales,282,,62341.25
+,,Item_3,252 Pcs,35.00/Pcs,8820,
+,,Item_7,1961.00 MTR,21.00/MTR,41181,
+,,Item_3,255 Pcs,22.50/Pcs,5737.5,
+,,Item_75,61.10 MTR,35.00/MTR,2138.5,
+,,Item_3,145 Pcs,28.00/Pcs,4060,
+,,Item_7,19.25 MTR,21.00/MTR,404.25,
+20-01-2021,By,customer85,Sales,283,,78060
+,,Item_3,3240 Pcs,21.50/Pcs,69660,
+,,Item_3,300 Pcs,28.00/Pcs,8400,
+20-01-2021,By,customer127,Sales,284,,6678
+,,Item_7,318.00 MTR,21.00/MTR,6678,
+20-01-2021,By,customer66,Sales,285,,6768
+,,Item_27,150.00 MTR,45.12/MTR,6768,
+20-01-2021,By,customer135,Sales,286,,24825
+,,Item_27,496.50 MTR,50.00/MTR,24825,
+21-01-2021,By,customer21,Sales,287,,18456
+,,Item_27,369.12 MTR,50.00/MTR,18456,
+22-01-2021,By,customer16,Sales,288,,21328
+,,Item_1,100 Pcs,20.00/Pcs,2000,
+,,Item_3,71 Pcs,48.00/Pcs,3408,
+,,Item_6,720 Pcs,17.00/Pcs,12240,
+,,Item_7,160.00 MTR,23.00/MTR,3680,
+23-01-2021,By,customer131,Sales,289,,15334.59
+,,Item_15,187.97 MTR,81.58/MTR,15334.59,
+23-01-2021,By,customer8,Sales,290,,18384.75
+,,Item_6,120 Pcs,16.50/Pcs,1980,
+,,Item_75,12.25 MTR,83.00/MTR,1016.75,
+,,Item_2,360 Pcs,20.50/Pcs,7380,
+,,Item_27,154.00 MTR,52.00/MTR,8008,
+23-01-2021,By,customer125,Sales,291,,1920
+,,Item_7,40.00 MTR,22.00/MTR,880,
+,,Item_27,20.00 MTR,52.00/MTR,1040,
+23-01-2021,By,customer42,Sales,292,,18207.72
+,,Item_2,828 Pcs,21.99/Pcs,18207.72,
+23-01-2021,By,customer2,Sales,293,,8000
+,,Item_76,20 Pcs,400.00/Pcs,8000,
+23-01-2021,By,customer69,Sales,294,,41551
+,,Item_3,105 Pcs,22.00/Pcs,2310,
+,,Item_1,700 Pcs,19.50/Pcs,13650,
+,,Item_6,230 Pcs,16.50/Pcs,3795,
+,,Item_3,36 Pcs,40.00/Pcs,1440,
+,,Item_3,36 Pcs,35.00/Pcs,1260,
+,,Item_3,12 Pcs,30.00/Pcs,360,
+,,Item_3,244 Pcs,38.00/Pcs,9272,
+,,Item_3,48 Pcs,40.00/Pcs,1920,
+,,Item_33,68.00 MTR,48.00/MTR,3264,
+,,Item_9,200 Pcs,11.50/Pcs,2300,
+,,Item_3,60 Pcs,33.00/Pcs,1980,
+23-01-2021,By,customer136,Sales,295,,20367.7
+,,Item_3,1000 Pcs,20.00/Pcs,20000,
+,,Item_3,10 Pcs,36.77/Pcs,367.7,
+24-01-2021,By,customer5,Sales,296,,83540
+,,Item_3,3320 Pcs,22.00/Pcs,73040,
+,,Item_18,350.00 MTR,30.00/MTR,10500,
+24-01-2021,By,customer135,Sales,297,,3427.5
+,,Item_9,150 Pcs,12.00/Pcs,1800,
+,,Item_7,40.00 MTR,22.00/MTR,880,
+,,Item_18,11.50 MTR,65.00/MTR,747.5,
+24-01-2021,By,customer98,Sales,298,,35175
+,,Item_6,350 Pcs,17.00/Pcs,5950,
+,,Item_2,260 Pcs,25.00/Pcs,6500,
+,,Item_4,60 Pcs,32.00/Pcs,1920,
+,,Item_3,12 Pcs,45.00/Pcs,540,
+,,Item_3,12 Pcs,50.00/Pcs,600,
+,,Item_3,45 Pcs,50.00/Pcs,2250,
+,,Item_77,15 Pcs,45.00/Pcs,675,
+,,Item_4,418 Pcs,40.00/Pcs,16720,
+,,Item_4,1 Pcs,20.00/Pcs,20,
+26-01-2021,By,customer66,Sales,299,,31472
+,,Item_6,525 Pcs,17.00/Pcs,8925,
+,,Item_60,24.00 MTR,23.00/MTR,552,
+,,Item_18,131.50 MTR,65.00/MTR,8547.5,
+,,Item_18,14.25 MTR,90.00/MTR,1282.5,
+,,Item_2,120 Pcs,21.00/Pcs,2520,
+,,Item_7,260.00 MTR,22.00/MTR,5720,
+,,Item_77,30 Pcs,50.00/Pcs,1500,
+,,Item_6,65 Pcs,17.00/Pcs,1105,
+,,Item_7,60.00 MTR,22.00/MTR,1320,
+26-01-2021,By,customer54,Sales,300,,20284
+,,Item_18,181.00 MTR,68.00/MTR,12308,
+,,Item_18,35.60 MTR,60.00/MTR,2136,
+,,Item_77,20 Pcs,50.00/Pcs,1000,
+,,Item_77,30 Pcs,60.00/Pcs,1800,
+,,Item_77,36 Pcs,40.00/Pcs,1440,
+,,Item_27,20.00 MTR,55.00/MTR,1100,
+,,Item_2,20 Pcs,25.00/Pcs,500,
+26-01-2021,By,customer35,Sales,301,,65643.75
+,,Item_6,2800 Pcs,17.00/Pcs,47600,
+,,Item_18,54.75 MTR,75.00/MTR,4106.25,
+,,Item_18,29.75 MTR,75.00/MTR,2231.25,
+,,Item_60,40.25 MTR,25.00/MTR,1006.25,
+,,Item_3,50 Pcs,30.00/Pcs,1500,
+,,Item_7,400.00 MTR,23.00/MTR,9200,
+27-01-2021,By,customer16,Sales,302,,1012.5
+,,Item_19,50 Pcs,7.50/Pcs,375,
+,,Item_20,75 Pcs,8.50/Pcs,637.5,
+27-01-2021,By,customer5,Sales,303,,22000
+,,Item_3,1000 Pcs,22.00/Pcs,22000,
+27-01-2021,By,customer20,Sales,304,,8290.36
+,,Item_74,52.00 DOZ,159.43/DOZ,8290.36,
+28-01-2021,By,customer20,Sales,305,,72270.4
+,,Item_6,1700 Pcs,17.00/Pcs,28900,
+,,Item_18,132.00 MTR,95.00/MTR,12540,
+,,Item_2,150 Pcs,22.00/Pcs,3300,
+,,Item_1,220 Pcs,20.50/Pcs,4510,
+,,Item_18,174.75 MTR,75.00/MTR,13106.25,
+,,Item_18,31.20 MTR,37.00/MTR,1154.4,
+,,Item_3,60 Pcs,24.00/Pcs,1440,
+,,Item_7,318.25 MTR,23.00/MTR,7319.75,
+28-01-2021,By,customer133,Sales,306,,93150
+,,Item_9,2400 Pcs,12.00/Pcs,28800,
+,,Item_3,2400 Pcs,23.00/Pcs,55200,
+,,Item_6,300 Pcs,16.50/Pcs,4950,
+,,Item_2,200 Pcs,21.00/Pcs,4200,
+28-01-2021,By,customer11,Sales,307,,13866.93
+,,Item_74,87.00 DOZ,159.39/DOZ,13866.93,
+28-01-2021,By,customer133,Sales,308,,14400
+,,Item_9,1200 Pcs,12.00/Pcs,14400,
+28-01-2021,By,customer3,Sales,309,,8510
+,,Item_6,200 Pcs,17.00/Pcs,3400,
+,,Item_75,73.00 MTR,70.00/MTR,5110,
+29-01-2021,By,customer60,Sales,310,,10685
+,,Item_3,78 Pcs,95.00/Pcs,7410,
+,,Item_19,150 Pcs,7.50/Pcs,1125,
+,,Item_20,100 Pcs,8.50/Pcs,850,
+,,Item_4,50 Pcs,26.00/Pcs,1300,
+29-01-2021,By,customer133,Sales,311,,91120
+,,Item_77,300 Pcs,48.00/Pcs,14400,
+,,Item_3,3240 Pcs,23.00/Pcs,74520,
+,,Item_27,40.00 MTR,55.00/MTR,2200,
+29-01-2021,By,customer69,Sales,312,,49134.75
+,,Item_29,12.00 MTR,33.00/MTR,396,
+,,Item_1,260 Pcs,19.50/Pcs,5070,
+,,Item_2,170 Pcs,20.00/Pcs,3400,
+,,Item_77,45 Pcs,48.00/Pcs,2160,
+,,Item_7,1772.50 MTR,21.50/MTR,38108.75,
+29-01-2021,By,customer8,Sales,313,,20722.5
+,,Item_4,450 Pcs,45.00/Pcs,20250,
+,,Item_18,10.50 MTR,45.00/MTR,472.5,
+29-01-2021,By,customer36,Sales,314,,1524
+,,Item_33,50.80 MTR,30.00/MTR,1524,
+29-01-2021,By,customer2,Sales,315,,320
+,,Item_74,2.00 DOZ,160.00/DOZ,320,
+29-01-2021,By,customer137,Sales,316,,20232.25
+,,Item_4,963 Pcs,21.00/Pcs,20223,
+,,Item_9,1 Pcs,9.25/Pcs,9.25,
+29-01-2021,By,customer50,Sales,317,,23075.1
+,,Item_6,330 Pcs,17.50/Pcs,5775,
+,,Item_27,60.00 MTR,55.00/MTR,3300,
+,,Item_7,608.70 MTR,23.00/MTR,14000.1,
+29-01-2021,By,customer23,Sales,318,,9460
+,,Item_6,555 Pcs,17.00/Pcs,9435,
+,,Item_3,1 Pcs,25.00/Pcs,25,
+29-01-2021,By,customer98,Sales,319,,26600
+,,Item_2,1330 Pcs,20.00/Pcs,26600,
+30-01-2021,By,customer104,Sales,320,,20400
+,,Item_6,1200 Pcs,17.00/Pcs,20400,
+30-01-2021,By,customer138,Sales,321,,3570
+,,Item_6,120 Pcs,17.00/Pcs,2040,
+,,Item_2,60 Pcs,25.50/Pcs,1530,
+31-01-2021,By,customer139,Sales,322,,13540
+,,Item_4,677 Pcs,20.00/Pcs,13540,
+31-01-2021,By,customer127,Sales,323,,31500.3
+,,Item_2,30 Pcs,19.00/Pcs,570,
+,,Item_60,116.00 MTR,21.30/MTR,2470.8,
+,,Item_2,1200 Pcs,19.00/Pcs,22800,
+,,Item_3,2 Pcs,24.00/Pcs,48,
+,,Item_7,261.00 MTR,21.50/MTR,5611.5,
+01-02-2021,By,customer35,Sales,324,,7317
+,,Item_6,150 Pcs,17.50/Pcs,2625,
+,,Item_7,204.00 MTR,23.00/MTR,4692,
+01-02-2021,By,customer63,Sales,325,,6977.5
+,,Item_19,625 Pcs,7.50/Pcs,4687.5,
+,,Item_2,50 Pcs,25.00/Pcs,1250,
+,,Item_27,20.00 MTR,52.00/MTR,1040,
+01-02-2021,By,customer140,Sales,326,,2643
+,,Item_4,100 Pcs,26.43/Pcs,2643,
+01-02-2021,By,customer25,Sales,327,,10578
+,,Item_6,200 Pcs,21.15/Pcs,4230,
+,,Item_6,300 Pcs,21.16/Pcs,6348,
+02-02-2021,By,customer8,Sales,328,,17201
+,,Item_18,60.00 MTR,38.00/MTR,2280,
+,,Item_7,694.00 MTR,21.50/MTR,14921,
+02-02-2021,By,customer141,Sales,329,,6270
+,,Item_3,66 Pcs,95.00/Pcs,6270,
+02-02-2021,By,customer23,Sales,330,,4070
+,,Item_4,200 Pcs,20.00/Pcs,4000,
+,,Item_3,2 Pcs,35.00/Pcs,70,
+04-02-2021,By,customer17,Sales,331,,35000
+,,Item_34,500.00 MTR,70.00/MTR,35000,
+04-02-2021,By,customer5,Sales,332,,48000
+,,Item_1,2400 Pcs,20.00/Pcs,48000,
+05-02-2021,By,customer129,Sales,333,,8670
+,,Item_2,340 Pcs,25.50/Pcs,8670,
+05-02-2021,By,customer16,Sales,334,,8762
+,,Item_33,123.40 MTR,30.00/MTR,3702,
+,,Item_7,220.00 MTR,23.00/MTR,5060,
+,,,,,,13467165.81
+,To,Closing Balance,13467165.81,,,
+13467165.81,,,,,,13467165.81
